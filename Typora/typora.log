@@ -1,0 +1,2805 @@
+INFO 20/11/2023 21:07:14  launch with argv [/usr/share/typora/Typora]
+INFO 20/11/2023 21:07:14  launchFromDiffVersion, pre version is undefined
+INFO 20/11/2023 21:07:14  start LM in devVersion=true
+INFO 20/11/2023 21:07:14  [Raven] instanceKey = 38bfb141-c247-4a4b-a30b-b517143de641
+INFO 20/11/2023 21:07:14  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 20/11/2023 21:07:14  ls put SLicense
+INFO 20/11/2023 21:07:14  [validateTrail] installDate is 11/20/2023, trail remains: 15 days
+INFO 20/11/2023 21:07:14  overwriteThemeFolder
+INFO 20/11/2023 21:07:14  ------------------start------------------
+INFO 20/11/2023 21:07:14  typora version: 0.11.18
+INFO 20/11/2023 21:07:14  [focus] 1
+INFO 20/11/2023 21:07:14  synced recovery
+INFO 20/11/2023 21:07:15  handle document.loadInitData
+INFO 20/11/2023 21:07:15  [RenderProcess 1][Log] getContent
+INFO 20/11/2023 21:07:15  synced recovery
+INFO 20/11/2023 21:07:16  [RenderProcess 1][Log] onBecomeActive
+INFO 20/11/2023 21:07:16  [RenderProcess 1][Log] File.activeWindow = true
+INFO 20/11/2023 21:07:17  synced recovery
+INFO 20/11/2023 21:07:26  synced recovery
+INFO 20/11/2023 21:07:26  ----------------before-quit-----------------
+INFO 20/11/2023 21:07:26  ------------------will-quit------------------
+INFO 20/11/2023 21:07:26  -----------------quit------------------
+INFO 20/11/2023 21:07:26  closeLogging
+INFO 25/11/2023 10:49:04  launch with argv [/usr/share/typora/Typora]
+INFO 25/11/2023 10:49:05  start LM in devVersion=true
+INFO 25/11/2023 10:49:05  [Raven] instanceKey = d16e24c1-3cc6-4d1f-b75b-484313d5394e
+INFO 25/11/2023 10:49:05  ls put SLicense
+INFO 25/11/2023 10:49:05  [validateTrail] installDate is 11/25/2023, trail remains: 15 days
+INFO 25/11/2023 10:49:05  ------------------start------------------
+INFO 25/11/2023 10:49:05  typora version: 0.11.18
+INFO 25/11/2023 10:49:05  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 25/11/2023 10:49:05  [focus] 1
+INFO 25/11/2023 10:49:06  synced recovery
+INFO 25/11/2023 10:49:08  handle document.loadInitData
+INFO 25/11/2023 10:49:08  [RenderProcess 1][Log] getContent
+INFO 25/11/2023 10:49:08  synced recovery
+INFO 25/11/2023 10:49:09  [RenderProcess 1][Log] onBecomeActive
+INFO 25/11/2023 10:49:09  [RenderProcess 1][Log] File.activeWindow = true
+INFO 25/11/2023 10:49:12  [blur] 1
+INFO 25/11/2023 10:49:12  [win] blur
+INFO 25/11/2023 10:52:32  [focus] 1
+INFO 25/11/2023 10:52:40  [RenderProcess 1][Warn] Error: spawn pandoc ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:465:16)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+INFO 25/11/2023 10:52:47  [blur] 1
+INFO 25/11/2023 10:52:47  [win] blur
+INFO 25/11/2023 10:53:00  [focus] 1
+INFO 25/11/2023 10:53:02  [blur] 1
+INFO 25/11/2023 10:53:02  [win] blur
+INFO 25/11/2023 10:54:13  [focus] 1
+INFO 25/11/2023 10:54:16  synced recovery
+INFO 25/11/2023 10:54:26  synced recovery
+INFO 25/11/2023 10:54:31  synced recovery
+INFO 25/11/2023 10:54:39  synced recovery
+INFO 25/11/2023 10:55:03  synced recovery
+INFO 25/11/2023 10:55:05  synced recovery
+INFO 25/11/2023 10:55:09  synced recovery
+INFO 25/11/2023 10:55:16  synced recovery
+INFO 25/11/2023 10:55:23  synced recovery
+INFO 25/11/2023 10:55:28  synced recovery
+INFO 25/11/2023 10:55:34  synced recovery
+INFO 25/11/2023 10:55:36  synced recovery
+INFO 25/11/2023 10:55:42  synced recovery
+INFO 25/11/2023 10:55:43  synced recovery
+INFO 25/11/2023 10:55:45  synced recovery
+INFO 25/11/2023 10:55:49  synced recovery
+INFO 25/11/2023 10:56:09  synced recovery
+INFO 25/11/2023 10:56:23  synced recovery
+INFO 25/11/2023 10:56:30  synced recovery
+INFO 25/11/2023 10:56:39  synced recovery
+INFO 25/11/2023 10:56:45  synced recovery
+INFO 25/11/2023 10:56:52  synced recovery
+INFO 25/11/2023 10:57:03  synced recovery
+INFO 25/11/2023 10:57:04  synced recovery
+INFO 25/11/2023 10:57:10  synced recovery
+INFO 25/11/2023 10:57:14  synced recovery
+INFO 25/11/2023 10:57:20  synced recovery
+INFO 25/11/2023 10:57:23  synced recovery
+INFO 25/11/2023 10:57:25  synced recovery
+INFO 25/11/2023 10:57:33  synced recovery
+INFO 25/11/2023 10:57:35  synced recovery
+INFO 25/11/2023 10:57:37  synced recovery
+INFO 25/11/2023 10:57:54  synced recovery
+INFO 25/11/2023 10:58:55  synced recovery
+INFO 25/11/2023 10:58:59  synced recovery
+INFO 25/11/2023 10:59:03  synced recovery
+INFO 25/11/2023 10:59:04  synced recovery
+INFO 25/11/2023 10:59:38  synced recovery
+INFO 25/11/2023 10:59:41  synced recovery
+INFO 25/11/2023 10:59:42  synced recovery
+INFO 25/11/2023 10:59:43  synced recovery
+INFO 25/11/2023 10:59:44  synced recovery
+INFO 25/11/2023 10:59:52  synced recovery
+INFO 25/11/2023 11:00:15  [blur] 1
+INFO 25/11/2023 11:00:15  [win] blur
+INFO 25/11/2023 11:02:21  [focus] 1
+INFO 25/11/2023 11:02:23  [blur] 1
+INFO 25/11/2023 11:02:23  [win] blur
+INFO 25/11/2023 11:07:20  [focus] 1
+INFO 25/11/2023 11:07:36  synced recovery
+INFO 25/11/2023 11:07:50  synced recovery
+INFO 25/11/2023 11:07:56  synced recovery
+INFO 25/11/2023 11:08:08  synced recovery
+INFO 25/11/2023 11:08:21  synced recovery
+INFO 25/11/2023 11:08:30  synced recovery
+INFO 25/11/2023 11:08:37  synced recovery
+INFO 25/11/2023 11:08:38  synced recovery
+INFO 25/11/2023 11:08:39  synced recovery
+INFO 25/11/2023 11:08:45  synced recovery
+INFO 25/11/2023 11:08:51  synced recovery
+INFO 25/11/2023 11:08:53  synced recovery
+INFO 25/11/2023 11:08:53  synced recovery
+INFO 25/11/2023 11:09:49  [blur] 1
+INFO 25/11/2023 11:09:49  [win] blur
+INFO 25/11/2023 11:13:18  [focus] 1
+INFO 25/11/2023 11:13:18  [blur] 1
+INFO 25/11/2023 11:13:18  [win] blur
+INFO 25/11/2023 11:15:25  [focus] 1
+INFO 25/11/2023 11:15:27  synced recovery
+INFO 25/11/2023 11:15:28  synced recovery
+INFO 25/11/2023 11:15:32  synced recovery
+INFO 25/11/2023 11:15:35  synced recovery
+INFO 25/11/2023 11:15:38  synced recovery
+INFO 25/11/2023 11:16:12  [blur] 1
+INFO 25/11/2023 11:16:12  [win] blur
+INFO 25/11/2023 11:23:34  [focus] 1
+INFO 25/11/2023 11:23:43  synced recovery
+INFO 25/11/2023 11:23:43  synced recovery
+INFO 25/11/2023 11:23:44  synced recovery
+INFO 25/11/2023 11:23:45  synced recovery
+INFO 25/11/2023 11:23:58  [blur] 1
+INFO 25/11/2023 11:23:58  [win] blur
+INFO 25/11/2023 11:25:33  [focus] 1
+INFO 25/11/2023 11:25:44  synced recovery
+INFO 25/11/2023 11:25:45  synced recovery
+INFO 25/11/2023 11:25:46  synced recovery
+INFO 25/11/2023 11:27:27  [blur] 1
+INFO 25/11/2023 11:27:27  [win] blur
+INFO 25/11/2023 11:30:20  [focus] 1
+INFO 25/11/2023 11:30:30  synced recovery
+INFO 25/11/2023 11:30:31  synced recovery
+INFO 25/11/2023 11:30:37  synced recovery
+INFO 25/11/2023 11:30:46  synced recovery
+INFO 25/11/2023 11:35:35  synced recovery
+INFO 25/11/2023 11:35:49  synced recovery
+INFO 25/11/2023 11:35:58  synced recovery
+INFO 25/11/2023 11:36:05  synced recovery
+INFO 25/11/2023 11:36:10  synced recovery
+INFO 25/11/2023 11:36:13  synced recovery
+INFO 25/11/2023 11:36:25  synced recovery
+INFO 25/11/2023 11:36:31  synced recovery
+INFO 25/11/2023 11:36:40  synced recovery
+INFO 25/11/2023 11:36:48  synced recovery
+INFO 25/11/2023 11:37:06  synced recovery
+INFO 25/11/2023 11:37:25  synced recovery
+INFO 25/11/2023 11:38:00  synced recovery
+INFO 25/11/2023 11:38:10  synced recovery
+INFO 25/11/2023 11:38:12  synced recovery
+INFO 25/11/2023 11:38:36  synced recovery
+INFO 25/11/2023 11:38:41  synced recovery
+INFO 25/11/2023 11:38:51  synced recovery
+INFO 25/11/2023 11:38:53  synced recovery
+INFO 25/11/2023 11:38:54  synced recovery
+INFO 25/11/2023 11:39:00  synced recovery
+INFO 25/11/2023 11:39:08  synced recovery
+INFO 25/11/2023 11:39:13  synced recovery
+INFO 25/11/2023 11:39:19  synced recovery
+INFO 25/11/2023 11:39:24  synced recovery
+INFO 25/11/2023 11:39:27  synced recovery
+INFO 25/11/2023 11:39:28  synced recovery
+INFO 25/11/2023 11:39:30  synced recovery
+INFO 25/11/2023 11:39:31  synced recovery
+INFO 25/11/2023 11:39:33  synced recovery
+INFO 25/11/2023 11:39:39  synced recovery
+INFO 25/11/2023 11:39:42  synced recovery
+INFO 25/11/2023 11:39:56  synced recovery
+INFO 25/11/2023 11:39:59  synced recovery
+INFO 25/11/2023 11:40:02  synced recovery
+INFO 25/11/2023 11:40:02  synced recovery
+INFO 25/11/2023 11:40:03  synced recovery
+INFO 25/11/2023 11:40:03  synced recovery
+INFO 25/11/2023 11:40:08  synced recovery
+INFO 25/11/2023 11:40:12  synced recovery
+INFO 25/11/2023 11:40:25  synced recovery
+INFO 25/11/2023 11:40:28  synced recovery
+INFO 25/11/2023 11:40:29  synced recovery
+INFO 25/11/2023 11:40:33  synced recovery
+INFO 25/11/2023 11:40:38  synced recovery
+INFO 25/11/2023 11:40:41  synced recovery
+INFO 25/11/2023 11:40:42  synced recovery
+INFO 25/11/2023 11:40:53  synced recovery
+INFO 25/11/2023 11:41:05  synced recovery
+INFO 25/11/2023 11:41:08  synced recovery
+INFO 25/11/2023 11:41:20  synced recovery
+INFO 25/11/2023 11:41:22  synced recovery
+INFO 25/11/2023 11:41:30  synced recovery
+INFO 25/11/2023 11:41:50  synced recovery
+INFO 25/11/2023 11:41:54  synced recovery
+INFO 25/11/2023 11:42:00  synced recovery
+INFO 25/11/2023 11:42:17  synced recovery
+INFO 25/11/2023 11:42:19  synced recovery
+INFO 25/11/2023 11:42:19  synced recovery
+INFO 25/11/2023 11:42:28  synced recovery
+INFO 25/11/2023 11:42:31  synced recovery
+INFO 25/11/2023 11:43:41  synced recovery
+INFO 25/11/2023 11:43:44  synced recovery
+INFO 25/11/2023 11:43:59  synced recovery
+INFO 25/11/2023 11:44:02  synced recovery
+INFO 25/11/2023 11:44:05  synced recovery
+INFO 25/11/2023 11:44:08  synced recovery
+INFO 25/11/2023 11:44:11  synced recovery
+INFO 25/11/2023 11:44:11  synced recovery
+INFO 25/11/2023 11:44:13  synced recovery
+INFO 25/11/2023 11:44:28  synced recovery
+INFO 25/11/2023 11:44:30  synced recovery
+INFO 25/11/2023 11:44:34  synced recovery
+INFO 25/11/2023 11:44:37  synced recovery
+INFO 25/11/2023 11:44:38  synced recovery
+INFO 25/11/2023 11:44:48  synced recovery
+INFO 25/11/2023 11:44:51  synced recovery
+INFO 25/11/2023 11:45:29  synced recovery
+INFO 25/11/2023 11:45:34  synced recovery
+INFO 25/11/2023 11:46:16  synced recovery
+INFO 25/11/2023 11:46:17  synced recovery
+INFO 25/11/2023 11:46:19  synced recovery
+INFO 25/11/2023 11:46:20  synced recovery
+INFO 25/11/2023 11:46:21  synced recovery
+INFO 25/11/2023 11:46:23  synced recovery
+INFO 25/11/2023 11:46:29  synced recovery
+INFO 25/11/2023 11:46:30  synced recovery
+INFO 25/11/2023 11:46:30  synced recovery
+INFO 25/11/2023 11:46:35  synced recovery
+INFO 25/11/2023 11:46:35  synced recovery
+INFO 25/11/2023 11:46:39  synced recovery
+INFO 25/11/2023 11:46:40  synced recovery
+INFO 25/11/2023 11:46:58  synced recovery
+INFO 25/11/2023 11:47:07  synced recovery
+INFO 25/11/2023 11:47:08  synced recovery
+INFO 25/11/2023 11:47:38  [blur] 1
+INFO 25/11/2023 11:47:38  [win] blur
+INFO 25/11/2023 11:47:54  [focus] 1
+INFO 25/11/2023 11:48:01  synced recovery
+INFO 25/11/2023 11:48:04  [blur] 1
+INFO 25/11/2023 11:48:04  [win] blur
+INFO 25/11/2023 11:48:13  [focus] 1
+INFO 25/11/2023 11:48:13  synced recovery
+INFO 25/11/2023 11:49:36  synced recovery
+INFO 25/11/2023 11:49:38  synced recovery
+INFO 25/11/2023 11:49:44  synced recovery
+INFO 25/11/2023 11:49:57  synced recovery
+INFO 25/11/2023 11:50:41  synced recovery
+INFO 25/11/2023 11:50:41  synced recovery
+INFO 25/11/2023 11:50:56  synced recovery
+INFO 25/11/2023 11:50:57  synced recovery
+INFO 25/11/2023 11:51:08  synced recovery
+INFO 25/11/2023 11:51:08  synced recovery
+INFO 25/11/2023 11:51:16  [blur] 1
+INFO 25/11/2023 11:51:16  [win] blur
+INFO 25/11/2023 11:51:23  [focus] 1
+INFO 25/11/2023 11:51:27  [blur] 1
+INFO 25/11/2023 11:51:27  [win] blur
+INFO 25/11/2023 11:51:49  [focus] 1
+INFO 25/11/2023 11:52:00  synced recovery
+INFO 25/11/2023 11:52:00  synced recovery
+INFO 25/11/2023 11:52:05  [blur] 1
+INFO 25/11/2023 11:52:05  [win] blur
+INFO 25/11/2023 11:59:21  [focus] 1
+INFO 25/11/2023 11:59:27  synced recovery
+INFO 25/11/2023 11:59:28  synced recovery
+INFO 25/11/2023 11:59:50  synced recovery
+INFO 25/11/2023 11:59:52  synced recovery
+INFO 25/11/2023 12:00:03  synced recovery
+INFO 25/11/2023 12:00:07  synced recovery
+INFO 25/11/2023 12:00:53  synced recovery
+INFO 25/11/2023 12:00:58  synced recovery
+INFO 25/11/2023 12:00:59  synced recovery
+INFO 25/11/2023 12:01:00  synced recovery
+INFO 25/11/2023 12:01:03  synced recovery
+INFO 25/11/2023 12:01:06  synced recovery
+INFO 25/11/2023 12:01:10  synced recovery
+INFO 25/11/2023 12:01:11  synced recovery
+INFO 25/11/2023 12:01:12  synced recovery
+INFO 25/11/2023 12:01:14  synced recovery
+INFO 25/11/2023 12:01:17  synced recovery
+INFO 25/11/2023 12:01:18  synced recovery
+INFO 25/11/2023 12:01:19  synced recovery
+INFO 25/11/2023 12:01:21  synced recovery
+INFO 25/11/2023 12:01:21  synced recovery
+INFO 25/11/2023 12:01:22  synced recovery
+INFO 25/11/2023 12:01:24  synced recovery
+INFO 25/11/2023 12:01:25  synced recovery
+INFO 25/11/2023 12:01:30  synced recovery
+INFO 25/11/2023 12:01:30  synced recovery
+INFO 25/11/2023 12:01:31  synced recovery
+INFO 25/11/2023 12:01:33  synced recovery
+INFO 25/11/2023 12:01:34  synced recovery
+INFO 25/11/2023 12:01:38  synced recovery
+INFO 25/11/2023 12:01:39  synced recovery
+INFO 25/11/2023 12:01:39  synced recovery
+INFO 25/11/2023 12:01:41  synced recovery
+INFO 25/11/2023 12:01:42  synced recovery
+INFO 25/11/2023 12:01:45  synced recovery
+INFO 25/11/2023 12:02:06  synced recovery
+INFO 25/11/2023 12:02:09  synced recovery
+INFO 25/11/2023 12:02:10  synced recovery
+INFO 25/11/2023 12:02:11  synced recovery
+INFO 25/11/2023 12:02:12  synced recovery
+INFO 25/11/2023 12:02:13  synced recovery
+INFO 25/11/2023 12:02:13  synced recovery
+INFO 25/11/2023 12:02:14  synced recovery
+INFO 25/11/2023 12:02:15  synced recovery
+INFO 25/11/2023 12:02:15  synced recovery
+INFO 25/11/2023 12:02:16  synced recovery
+INFO 25/11/2023 12:02:20  synced recovery
+INFO 25/11/2023 12:02:21  synced recovery
+INFO 25/11/2023 12:02:23  synced recovery
+INFO 25/11/2023 12:02:23  synced recovery
+INFO 25/11/2023 12:02:24  synced recovery
+INFO 25/11/2023 12:02:25  synced recovery
+INFO 25/11/2023 12:02:26  synced recovery
+INFO 25/11/2023 12:02:26  synced recovery
+INFO 25/11/2023 12:02:28  synced recovery
+INFO 25/11/2023 12:02:32  synced recovery
+INFO 25/11/2023 12:02:34  synced recovery
+INFO 25/11/2023 12:02:34  synced recovery
+INFO 25/11/2023 12:02:35  synced recovery
+INFO 25/11/2023 12:02:36  synced recovery
+INFO 25/11/2023 12:02:39  synced recovery
+INFO 25/11/2023 12:02:40  synced recovery
+INFO 25/11/2023 12:02:50  synced recovery
+INFO 25/11/2023 12:02:52  synced recovery
+INFO 25/11/2023 12:02:52  synced recovery
+INFO 25/11/2023 12:02:54  synced recovery
+INFO 25/11/2023 12:02:54  synced recovery
+INFO 25/11/2023 12:02:55  synced recovery
+INFO 25/11/2023 12:02:56  synced recovery
+INFO 25/11/2023 12:02:56  synced recovery
+INFO 25/11/2023 12:02:58  synced recovery
+INFO 25/11/2023 12:03:01  synced recovery
+INFO 25/11/2023 12:03:03  synced recovery
+INFO 25/11/2023 12:03:04  synced recovery
+INFO 25/11/2023 12:03:07  synced recovery
+INFO 25/11/2023 12:03:07  synced recovery
+INFO 25/11/2023 12:03:09  synced recovery
+INFO 25/11/2023 12:03:10  synced recovery
+INFO 25/11/2023 12:04:08  synced recovery
+INFO 25/11/2023 12:04:10  synced recovery
+INFO 25/11/2023 12:04:36  synced recovery
+INFO 25/11/2023 12:04:37  synced recovery
+INFO 25/11/2023 12:04:38  synced recovery
+INFO 25/11/2023 12:04:39  synced recovery
+INFO 25/11/2023 12:04:39  synced recovery
+INFO 25/11/2023 12:04:40  synced recovery
+INFO 25/11/2023 12:04:45  synced recovery
+INFO 25/11/2023 12:07:08  synced recovery
+INFO 25/11/2023 12:07:12  synced recovery
+INFO 25/11/2023 12:07:13  synced recovery
+INFO 25/11/2023 12:07:13  synced recovery
+INFO 25/11/2023 12:07:14  synced recovery
+INFO 25/11/2023 12:07:15  synced recovery
+INFO 25/11/2023 12:07:15  synced recovery
+INFO 25/11/2023 12:07:19  synced recovery
+INFO 25/11/2023 12:07:25  synced recovery
+INFO 25/11/2023 12:07:29  synced recovery
+INFO 25/11/2023 12:07:30  synced recovery
+INFO 25/11/2023 12:07:33  synced recovery
+INFO 25/11/2023 12:07:35  synced recovery
+INFO 25/11/2023 12:07:35  synced recovery
+INFO 25/11/2023 12:07:36  synced recovery
+INFO 25/11/2023 12:07:40  synced recovery
+INFO 25/11/2023 12:07:43  synced recovery
+INFO 25/11/2023 12:07:44  synced recovery
+INFO 25/11/2023 12:07:46  synced recovery
+INFO 25/11/2023 12:08:02  [blur] 1
+INFO 25/11/2023 12:08:02  [win] blur
+INFO 25/11/2023 12:08:36  [focus] 1
+INFO 25/11/2023 12:08:44  synced recovery
+INFO 25/11/2023 12:09:14  [blur] 1
+INFO 25/11/2023 12:09:14  [win] blur
+INFO 25/11/2023 12:10:58  [focus] 1
+INFO 25/11/2023 12:11:00  [blur] 1
+INFO 25/11/2023 12:11:00  [win] blur
+INFO 25/11/2023 12:11:41  [focus] 1
+INFO 25/11/2023 12:11:44  [blur] 1
+INFO 25/11/2023 12:11:44  [win] blur
+INFO 25/11/2023 12:13:16  [focus] 1
+INFO 25/11/2023 12:13:16  [blur] 1
+INFO 25/11/2023 12:13:16  [win] blur
+INFO 25/11/2023 12:13:18  [focus] 1
+INFO 25/11/2023 12:13:27  [blur] 1
+INFO 25/11/2023 12:13:27  [win] blur
+INFO 25/11/2023 12:13:27  [focus] 1
+INFO 25/11/2023 12:13:35  synced recovery
+INFO 25/11/2023 12:13:36  synced recovery
+INFO 25/11/2023 12:13:38  synced recovery
+INFO 25/11/2023 12:13:39  synced recovery
+INFO 25/11/2023 12:13:44  synced recovery
+INFO 25/11/2023 12:13:50  synced recovery
+INFO 25/11/2023 12:13:52  synced recovery
+INFO 25/11/2023 12:13:52  synced recovery
+INFO 25/11/2023 12:14:41  [blur] 1
+INFO 25/11/2023 12:14:41  [win] blur
+INFO 25/11/2023 12:15:17  [focus] 1
+INFO 25/11/2023 12:15:20  synced recovery
+INFO 25/11/2023 12:15:21  synced recovery
+INFO 25/11/2023 12:15:21  synced recovery
+INFO 25/11/2023 12:15:32  synced recovery
+INFO 25/11/2023 12:15:36  synced recovery
+INFO 25/11/2023 12:15:39  synced recovery
+INFO 25/11/2023 12:15:41  [blur] 1
+INFO 25/11/2023 12:15:41  [win] blur
+INFO 25/11/2023 12:15:41  [focus] 2
+INFO 25/11/2023 12:15:42  synced recovery
+INFO 25/11/2023 12:15:42  handle document.loadInitData
+INFO 25/11/2023 12:15:43  [RenderProcess 2][Log] getContent
+INFO 25/11/2023 12:15:43  synced recovery
+INFO 25/11/2023 12:15:43  [RenderProcess 2][Log] onBecomeActive
+INFO 25/11/2023 12:15:43  [RenderProcess 2][Log] File.activeWindow = true
+INFO 25/11/2023 12:15:44  [focus] 1
+INFO 25/11/2023 12:15:44  [blur] 1
+INFO 25/11/2023 12:15:44  [win] blur
+INFO 25/11/2023 12:15:44  [focus] 1
+INFO 25/11/2023 12:15:45  synced recovery
+INFO 25/11/2023 12:15:54  synced recovery
+INFO 25/11/2023 12:16:06  [blur] 1
+INFO 25/11/2023 12:16:06  [win] blur
+INFO 25/11/2023 12:16:30  [focus] 1
+INFO 25/11/2023 12:16:36  synced recovery
+INFO 25/11/2023 12:16:37  synced recovery
+INFO 25/11/2023 12:16:38  synced recovery
+INFO 25/11/2023 12:16:39  synced recovery
+INFO 25/11/2023 12:16:45  synced recovery
+INFO 25/11/2023 12:16:50  synced recovery
+INFO 25/11/2023 12:16:53  [blur] 1
+INFO 25/11/2023 12:16:53  [win] blur
+INFO 25/11/2023 12:16:58  [focus] 1
+INFO 25/11/2023 12:16:59  [blur] 1
+INFO 25/11/2023 12:16:59  [win] blur
+INFO 25/11/2023 12:17:08  [focus] 1
+INFO 25/11/2023 12:17:11  [blur] 1
+INFO 25/11/2023 12:17:11  [win] blur
+INFO 25/11/2023 12:18:30  [focus] 1
+INFO 25/11/2023 12:18:34  synced recovery
+INFO 25/11/2023 12:18:42  synced recovery
+INFO 25/11/2023 12:18:45  synced recovery
+INFO 25/11/2023 12:18:49  synced recovery
+INFO 25/11/2023 12:18:52  synced recovery
+INFO 25/11/2023 12:18:55  synced recovery
+INFO 25/11/2023 12:18:57  synced recovery
+INFO 25/11/2023 12:19:01  synced recovery
+INFO 25/11/2023 12:19:02  synced recovery
+INFO 25/11/2023 12:19:04  synced recovery
+INFO 25/11/2023 12:19:05  synced recovery
+INFO 25/11/2023 12:19:08  [blur] 1
+INFO 25/11/2023 12:19:08  [win] blur
+INFO 25/11/2023 12:19:15  [focus] 1
+INFO 25/11/2023 12:19:18  synced recovery
+INFO 25/11/2023 12:19:20  synced recovery
+INFO 25/11/2023 12:19:21  synced recovery
+INFO 25/11/2023 12:19:25  synced recovery
+INFO 25/11/2023 12:19:26  [blur] 1
+INFO 25/11/2023 12:19:26  [win] blur
+INFO 25/11/2023 12:19:42  [focus] 1
+INFO 25/11/2023 12:19:44  synced recovery
+INFO 25/11/2023 12:19:47  synced recovery
+INFO 25/11/2023 12:19:48  synced recovery
+INFO 25/11/2023 12:19:56  synced recovery
+INFO 25/11/2023 12:19:59  [blur] 1
+INFO 25/11/2023 12:19:59  [win] blur
+INFO 25/11/2023 12:20:02  [focus] 1
+INFO 25/11/2023 12:20:04  synced recovery
+INFO 25/11/2023 12:20:10  synced recovery
+INFO 25/11/2023 12:20:11  [blur] 1
+INFO 25/11/2023 12:20:11  [win] blur
+INFO 25/11/2023 12:20:58  [focus] 1
+INFO 25/11/2023 12:21:01  synced recovery
+INFO 25/11/2023 12:21:03  synced recovery
+INFO 25/11/2023 12:21:06  synced recovery
+INFO 25/11/2023 12:21:10  synced recovery
+INFO 25/11/2023 12:21:12  [blur] 1
+INFO 25/11/2023 12:21:12  [win] blur
+INFO 25/11/2023 12:21:18  [focus] 1
+INFO 25/11/2023 12:21:20  synced recovery
+INFO 25/11/2023 12:21:23  synced recovery
+INFO 25/11/2023 12:21:23  synced recovery
+INFO 25/11/2023 12:21:25  synced recovery
+INFO 25/11/2023 12:21:26  [blur] 1
+INFO 25/11/2023 12:21:26  [win] blur
+INFO 25/11/2023 12:21:34  [focus] 1
+INFO 25/11/2023 12:21:37  synced recovery
+INFO 25/11/2023 12:21:41  synced recovery
+INFO 25/11/2023 12:21:41  [blur] 1
+INFO 25/11/2023 12:21:41  [win] blur
+INFO 25/11/2023 12:22:39  [focus] 1
+INFO 25/11/2023 12:22:42  synced recovery
+INFO 25/11/2023 12:22:45  synced recovery
+INFO 25/11/2023 12:22:47  synced recovery
+INFO 25/11/2023 12:22:50  synced recovery
+INFO 25/11/2023 12:22:52  synced recovery
+INFO 25/11/2023 12:22:57  synced recovery
+INFO 25/11/2023 12:22:58  synced recovery
+INFO 25/11/2023 12:23:00  synced recovery
+INFO 25/11/2023 12:23:12  synced recovery
+INFO 25/11/2023 12:23:14  synced recovery
+INFO 25/11/2023 12:23:14  synced recovery
+INFO 25/11/2023 12:23:14  synced recovery
+INFO 25/11/2023 12:23:14  synced recovery
+INFO 25/11/2023 12:23:14  synced recovery
+INFO 25/11/2023 12:23:15  synced recovery
+INFO 25/11/2023 12:23:15  synced recovery
+INFO 25/11/2023 12:23:15  synced recovery
+INFO 25/11/2023 12:23:15  synced recovery
+INFO 25/11/2023 12:23:16  synced recovery
+INFO 25/11/2023 12:23:16  synced recovery
+INFO 25/11/2023 12:23:16  synced recovery
+INFO 25/11/2023 12:23:19  synced recovery
+INFO 25/11/2023 12:23:22  synced recovery
+INFO 25/11/2023 12:23:24  synced recovery
+INFO 25/11/2023 12:23:25  synced recovery
+INFO 25/11/2023 12:23:28  synced recovery
+INFO 25/11/2023 12:23:30  synced recovery
+INFO 25/11/2023 12:23:31  synced recovery
+INFO 25/11/2023 12:23:31  synced recovery
+INFO 25/11/2023 12:23:32  synced recovery
+INFO 25/11/2023 12:23:37  synced recovery
+INFO 25/11/2023 12:23:42  synced recovery
+INFO 25/11/2023 12:23:44  synced recovery
+INFO 25/11/2023 12:23:47  synced recovery
+INFO 25/11/2023 12:23:49  synced recovery
+INFO 25/11/2023 12:23:49  synced recovery
+INFO 25/11/2023 12:23:52  synced recovery
+INFO 25/11/2023 12:23:54  [blur] 1
+INFO 25/11/2023 12:23:54  [win] blur
+INFO 25/11/2023 12:23:55  [focus] 1
+INFO 25/11/2023 12:23:55  [blur] 1
+INFO 25/11/2023 12:23:55  [win] blur
+INFO 25/11/2023 12:23:56  [focus] 1
+INFO 25/11/2023 12:23:56  [blur] 1
+INFO 25/11/2023 12:23:56  [win] blur
+INFO 25/11/2023 12:23:56  [focus] 1
+INFO 25/11/2023 12:23:58  [blur] 1
+INFO 25/11/2023 12:23:58  [win] blur
+INFO 25/11/2023 12:25:19  [focus] 1
+INFO 25/11/2023 12:25:22  synced recovery
+INFO 25/11/2023 12:25:26  synced recovery
+INFO 25/11/2023 12:25:31  synced recovery
+INFO 25/11/2023 12:25:35  synced recovery
+INFO 25/11/2023 12:25:40  synced recovery
+INFO 25/11/2023 12:25:45  synced recovery
+INFO 25/11/2023 12:25:46  synced recovery
+INFO 25/11/2023 12:25:47  synced recovery
+INFO 25/11/2023 12:25:48  synced recovery
+INFO 25/11/2023 12:25:50  synced recovery
+INFO 25/11/2023 12:26:02  synced recovery
+INFO 25/11/2023 12:26:12  synced recovery
+INFO 25/11/2023 12:26:15  synced recovery
+INFO 25/11/2023 12:26:17  synced recovery
+INFO 25/11/2023 12:26:18  synced recovery
+INFO 25/11/2023 12:26:21  synced recovery
+INFO 25/11/2023 12:26:24  synced recovery
+INFO 25/11/2023 12:26:28  synced recovery
+INFO 25/11/2023 12:26:33  synced recovery
+INFO 25/11/2023 12:26:33  synced recovery
+INFO 25/11/2023 12:26:37  synced recovery
+INFO 25/11/2023 12:26:58  synced recovery
+INFO 25/11/2023 12:26:58  synced recovery
+INFO 25/11/2023 12:27:00  synced recovery
+INFO 25/11/2023 12:27:01  synced recovery
+INFO 25/11/2023 12:27:11  synced recovery
+INFO 25/11/2023 12:27:17  synced recovery
+INFO 25/11/2023 12:27:18  synced recovery
+INFO 25/11/2023 12:27:21  synced recovery
+INFO 25/11/2023 12:27:22  synced recovery
+INFO 25/11/2023 12:27:24  synced recovery
+INFO 25/11/2023 12:27:27  synced recovery
+INFO 25/11/2023 12:27:31  synced recovery
+INFO 25/11/2023 12:27:33  synced recovery
+INFO 25/11/2023 12:27:35  synced recovery
+INFO 25/11/2023 12:27:38  synced recovery
+INFO 25/11/2023 12:27:40  synced recovery
+INFO 25/11/2023 12:27:40  synced recovery
+INFO 25/11/2023 12:27:43  synced recovery
+INFO 25/11/2023 12:27:44  synced recovery
+INFO 25/11/2023 12:27:45  synced recovery
+INFO 25/11/2023 12:27:47  synced recovery
+INFO 25/11/2023 12:27:51  synced recovery
+INFO 25/11/2023 12:27:54  synced recovery
+INFO 25/11/2023 12:27:57  synced recovery
+INFO 25/11/2023 12:27:58  synced recovery
+INFO 25/11/2023 12:28:01  synced recovery
+INFO 25/11/2023 12:28:03  synced recovery
+INFO 25/11/2023 12:28:06  synced recovery
+INFO 25/11/2023 12:28:06  synced recovery
+INFO 25/11/2023 12:28:09  synced recovery
+INFO 25/11/2023 12:28:14  synced recovery
+INFO 25/11/2023 12:28:18  synced recovery
+INFO 25/11/2023 12:28:21  synced recovery
+INFO 25/11/2023 12:28:22  synced recovery
+INFO 25/11/2023 12:28:25  synced recovery
+INFO 25/11/2023 12:28:29  synced recovery
+INFO 25/11/2023 12:29:24  [blur] 1
+INFO 25/11/2023 12:29:24  [win] blur
+INFO 25/11/2023 12:29:25  [focus] 1
+INFO 25/11/2023 12:29:26  [blur] 1
+INFO 25/11/2023 12:29:26  [win] blur
+INFO 25/11/2023 12:29:26  [focus] 1
+INFO 25/11/2023 12:29:27  [blur] 1
+INFO 25/11/2023 12:29:27  [win] blur
+INFO 25/11/2023 12:29:27  [focus] 1
+INFO 25/11/2023 12:29:28  synced recovery
+INFO 25/11/2023 12:29:29  [blur] 1
+INFO 25/11/2023 12:29:29  [win] blur
+INFO 25/11/2023 12:29:29  [focus] 1
+INFO 25/11/2023 12:29:30  [blur] 1
+INFO 25/11/2023 12:29:30  [win] blur
+INFO 25/11/2023 12:29:31  [focus] 1
+INFO 25/11/2023 12:29:31  [blur] 1
+INFO 25/11/2023 12:29:31  [win] blur
+INFO 25/11/2023 12:29:35  [focus] 1
+INFO 25/11/2023 12:29:38  synced recovery
+INFO 25/11/2023 12:30:03  synced recovery
+INFO 25/11/2023 12:30:18  synced recovery
+INFO 25/11/2023 12:32:50  synced recovery
+INFO 25/11/2023 12:32:54  synced recovery
+INFO 25/11/2023 12:32:57  synced recovery
+INFO 25/11/2023 12:32:59  synced recovery
+INFO 25/11/2023 12:33:01  synced recovery
+INFO 25/11/2023 12:33:02  synced recovery
+INFO 25/11/2023 12:33:03  synced recovery
+INFO 25/11/2023 12:33:07  synced recovery
+INFO 25/11/2023 12:33:08  synced recovery
+INFO 25/11/2023 12:33:13  synced recovery
+INFO 25/11/2023 12:33:14  synced recovery
+INFO 25/11/2023 12:33:15  synced recovery
+INFO 25/11/2023 12:33:18  synced recovery
+INFO 25/11/2023 12:33:21  synced recovery
+INFO 25/11/2023 12:33:25  synced recovery
+INFO 25/11/2023 12:33:28  synced recovery
+INFO 25/11/2023 12:33:31  synced recovery
+INFO 25/11/2023 12:33:31  synced recovery
+INFO 25/11/2023 12:33:35  synced recovery
+INFO 25/11/2023 12:33:35  synced recovery
+INFO 25/11/2023 12:33:36  synced recovery
+INFO 25/11/2023 12:33:42  synced recovery
+INFO 25/11/2023 12:34:01  synced recovery
+INFO 25/11/2023 12:34:04  synced recovery
+INFO 25/11/2023 12:34:05  synced recovery
+INFO 25/11/2023 12:34:07  synced recovery
+INFO 25/11/2023 12:34:08  synced recovery
+INFO 25/11/2023 12:34:09  synced recovery
+INFO 25/11/2023 12:34:10  synced recovery
+INFO 25/11/2023 12:34:10  synced recovery
+INFO 25/11/2023 12:34:11  synced recovery
+INFO 25/11/2023 12:34:11  synced recovery
+INFO 25/11/2023 12:34:14  synced recovery
+INFO 25/11/2023 12:34:15  synced recovery
+INFO 25/11/2023 12:34:17  synced recovery
+INFO 25/11/2023 12:34:20  synced recovery
+INFO 25/11/2023 12:34:23  synced recovery
+INFO 25/11/2023 12:34:25  synced recovery
+INFO 25/11/2023 12:34:28  synced recovery
+INFO 25/11/2023 12:34:29  synced recovery
+INFO 25/11/2023 12:34:32  synced recovery
+INFO 25/11/2023 12:34:34  synced recovery
+INFO 25/11/2023 12:34:35  synced recovery
+INFO 25/11/2023 12:34:36  synced recovery
+INFO 25/11/2023 12:34:36  synced recovery
+INFO 25/11/2023 12:34:39  synced recovery
+INFO 25/11/2023 12:34:40  synced recovery
+INFO 25/11/2023 12:34:40  synced recovery
+INFO 25/11/2023 12:34:42  synced recovery
+INFO 25/11/2023 12:34:42  synced recovery
+INFO 25/11/2023 12:34:43  synced recovery
+INFO 25/11/2023 12:34:43  synced recovery
+INFO 25/11/2023 12:34:43  synced recovery
+INFO 25/11/2023 12:34:44  synced recovery
+INFO 25/11/2023 12:34:49  synced recovery
+INFO 25/11/2023 12:34:49  synced recovery
+INFO 25/11/2023 12:34:50  synced recovery
+INFO 25/11/2023 12:34:51  synced recovery
+INFO 25/11/2023 12:34:51  synced recovery
+INFO 25/11/2023 12:34:53  synced recovery
+INFO 25/11/2023 12:34:53  synced recovery
+INFO 25/11/2023 12:34:56  synced recovery
+INFO 25/11/2023 12:34:57  synced recovery
+INFO 25/11/2023 12:35:00  synced recovery
+INFO 25/11/2023 12:35:03  synced recovery
+INFO 25/11/2023 12:35:03  synced recovery
+INFO 25/11/2023 12:35:06  synced recovery
+INFO 25/11/2023 12:35:10  synced recovery
+INFO 25/11/2023 12:35:10  synced recovery
+INFO 25/11/2023 12:35:10  synced recovery
+INFO 25/11/2023 12:35:13  synced recovery
+INFO 25/11/2023 12:35:24  synced recovery
+INFO 25/11/2023 12:35:40  synced recovery
+INFO 25/11/2023 12:35:43  synced recovery
+INFO 25/11/2023 12:35:48  synced recovery
+INFO 25/11/2023 12:35:51  synced recovery
+INFO 25/11/2023 12:35:54  synced recovery
+INFO 25/11/2023 12:35:57  synced recovery
+INFO 25/11/2023 12:36:01  synced recovery
+INFO 25/11/2023 12:36:03  synced recovery
+INFO 25/11/2023 12:36:07  synced recovery
+INFO 25/11/2023 12:36:15  synced recovery
+INFO 25/11/2023 12:36:16  synced recovery
+INFO 25/11/2023 12:36:20  synced recovery
+INFO 25/11/2023 12:36:20  synced recovery
+INFO 25/11/2023 12:36:21  synced recovery
+INFO 25/11/2023 12:36:47  synced recovery
+INFO 25/11/2023 12:36:50  synced recovery
+INFO 25/11/2023 12:36:51  synced recovery
+INFO 25/11/2023 12:36:56  synced recovery
+INFO 25/11/2023 12:36:58  synced recovery
+INFO 25/11/2023 12:36:59  synced recovery
+INFO 25/11/2023 12:37:01  synced recovery
+INFO 25/11/2023 12:37:03  synced recovery
+INFO 25/11/2023 12:37:04  synced recovery
+INFO 25/11/2023 12:37:07  synced recovery
+INFO 25/11/2023 12:37:10  synced recovery
+INFO 25/11/2023 12:37:14  synced recovery
+INFO 25/11/2023 12:37:16  synced recovery
+INFO 25/11/2023 12:37:16  synced recovery
+INFO 25/11/2023 12:37:32  synced recovery
+INFO 25/11/2023 12:37:33  synced recovery
+INFO 25/11/2023 12:37:35  synced recovery
+INFO 25/11/2023 12:37:36  synced recovery
+INFO 25/11/2023 12:37:39  synced recovery
+INFO 25/11/2023 12:37:42  synced recovery
+INFO 25/11/2023 12:37:54  synced recovery
+INFO 25/11/2023 12:37:56  synced recovery
+INFO 25/11/2023 12:37:59  synced recovery
+INFO 25/11/2023 12:38:00  synced recovery
+INFO 25/11/2023 12:38:02  synced recovery
+INFO 25/11/2023 12:38:03  synced recovery
+INFO 25/11/2023 12:38:05  synced recovery
+INFO 25/11/2023 12:38:05  synced recovery
+INFO 25/11/2023 12:38:06  synced recovery
+INFO 25/11/2023 12:38:08  synced recovery
+INFO 25/11/2023 12:38:11  synced recovery
+INFO 25/11/2023 12:38:11  synced recovery
+INFO 25/11/2023 12:38:11  synced recovery
+INFO 25/11/2023 12:38:19  synced recovery
+INFO 25/11/2023 12:38:22  synced recovery
+INFO 25/11/2023 12:38:30  synced recovery
+INFO 25/11/2023 12:38:33  synced recovery
+INFO 25/11/2023 12:39:10  synced recovery
+INFO 25/11/2023 12:39:11  synced recovery
+INFO 25/11/2023 12:39:27  synced recovery
+INFO 25/11/2023 12:39:30  synced recovery
+INFO 25/11/2023 12:39:32  synced recovery
+INFO 25/11/2023 12:39:32  synced recovery
+INFO 25/11/2023 12:39:45  synced recovery
+INFO 25/11/2023 12:40:01  synced recovery
+INFO 25/11/2023 12:40:02  synced recovery
+INFO 25/11/2023 12:40:03  synced recovery
+INFO 25/11/2023 12:40:03  synced recovery
+INFO 25/11/2023 12:40:04  synced recovery
+INFO 25/11/2023 12:40:19  synced recovery
+INFO 25/11/2023 12:40:23  synced recovery
+INFO 25/11/2023 12:40:24  synced recovery
+INFO 25/11/2023 12:40:33  synced recovery
+INFO 25/11/2023 12:40:35  synced recovery
+INFO 25/11/2023 12:40:39  synced recovery
+INFO 25/11/2023 12:40:47  synced recovery
+INFO 25/11/2023 12:40:50  synced recovery
+INFO 25/11/2023 12:40:55  synced recovery
+INFO 25/11/2023 12:40:58  synced recovery
+INFO 25/11/2023 12:42:20  [blur] 1
+INFO 25/11/2023 12:42:20  [win] blur
+INFO 25/11/2023 12:42:45  [focus] 1
+INFO 25/11/2023 12:42:50  synced recovery
+INFO 25/11/2023 12:42:53  synced recovery
+INFO 25/11/2023 12:42:54  synced recovery
+INFO 25/11/2023 12:42:56  synced recovery
+INFO 25/11/2023 12:42:58  synced recovery
+INFO 25/11/2023 12:43:00  synced recovery
+INFO 25/11/2023 12:43:11  synced recovery
+INFO 25/11/2023 12:43:13  [blur] 1
+INFO 25/11/2023 12:43:13  [win] blur
+INFO 25/11/2023 12:43:18  [focus] 1
+INFO 25/11/2023 12:43:19  synced recovery
+INFO 25/11/2023 12:43:27  synced recovery
+INFO 25/11/2023 12:43:33  synced recovery
+INFO 25/11/2023 12:43:34  synced recovery
+INFO 25/11/2023 12:43:36  synced recovery
+INFO 25/11/2023 12:43:37  synced recovery
+INFO 25/11/2023 12:43:39  synced recovery
+INFO 25/11/2023 12:43:40  synced recovery
+INFO 25/11/2023 12:43:44  synced recovery
+INFO 25/11/2023 12:43:47  synced recovery
+INFO 25/11/2023 12:43:50  synced recovery
+INFO 25/11/2023 12:43:54  synced recovery
+INFO 25/11/2023 12:43:57  synced recovery
+INFO 25/11/2023 12:44:02  synced recovery
+INFO 25/11/2023 12:44:05  synced recovery
+INFO 25/11/2023 12:44:08  synced recovery
+INFO 25/11/2023 12:44:08  synced recovery
+INFO 25/11/2023 12:44:11  synced recovery
+INFO 25/11/2023 12:44:14  synced recovery
+INFO 25/11/2023 12:44:15  synced recovery
+INFO 25/11/2023 12:44:18  synced recovery
+INFO 25/11/2023 12:44:31  synced recovery
+INFO 25/11/2023 12:44:52  synced recovery
+INFO 25/11/2023 12:44:58  synced recovery
+INFO 25/11/2023 12:45:37  synced recovery
+INFO 25/11/2023 12:45:38  synced recovery
+INFO 25/11/2023 12:45:39  synced recovery
+INFO 25/11/2023 12:45:39  synced recovery
+INFO 25/11/2023 12:45:41  synced recovery
+INFO 25/11/2023 12:45:42  synced recovery
+INFO 25/11/2023 12:45:45  synced recovery
+INFO 25/11/2023 12:46:08  synced recovery
+INFO 25/11/2023 12:46:09  synced recovery
+INFO 25/11/2023 12:46:12  synced recovery
+INFO 25/11/2023 12:46:14  synced recovery
+INFO 25/11/2023 12:46:17  synced recovery
+INFO 25/11/2023 12:46:18  synced recovery
+INFO 25/11/2023 12:46:19  synced recovery
+INFO 25/11/2023 12:46:26  synced recovery
+INFO 25/11/2023 12:46:27  synced recovery
+INFO 25/11/2023 12:46:54  synced recovery
+INFO 25/11/2023 12:46:55  synced recovery
+INFO 25/11/2023 12:46:58  synced recovery
+INFO 25/11/2023 12:47:00  synced recovery
+INFO 25/11/2023 12:47:01  synced recovery
+INFO 25/11/2023 12:47:17  synced recovery
+INFO 25/11/2023 12:47:17  synced recovery
+INFO 25/11/2023 12:47:18  synced recovery
+INFO 25/11/2023 12:47:20  synced recovery
+INFO 25/11/2023 12:47:20  synced recovery
+INFO 25/11/2023 12:47:20  synced recovery
+INFO 25/11/2023 12:47:24  synced recovery
+INFO 25/11/2023 12:47:24  synced recovery
+INFO 25/11/2023 12:47:32  synced recovery
+INFO 25/11/2023 12:47:33  synced recovery
+INFO 25/11/2023 12:47:43  synced recovery
+INFO 25/11/2023 12:47:43  synced recovery
+INFO 25/11/2023 12:47:45  synced recovery
+INFO 25/11/2023 12:47:47  synced recovery
+INFO 25/11/2023 12:47:48  synced recovery
+INFO 25/11/2023 12:47:51  synced recovery
+INFO 25/11/2023 12:47:54  synced recovery
+INFO 25/11/2023 12:47:55  synced recovery
+INFO 25/11/2023 12:47:59  synced recovery
+INFO 25/11/2023 12:48:00  synced recovery
+INFO 25/11/2023 12:48:01  synced recovery
+INFO 25/11/2023 12:48:04  synced recovery
+INFO 25/11/2023 12:48:07  synced recovery
+INFO 25/11/2023 12:48:08  synced recovery
+INFO 25/11/2023 12:48:09  synced recovery
+INFO 25/11/2023 12:48:12  synced recovery
+INFO 25/11/2023 12:48:15  synced recovery
+INFO 25/11/2023 12:48:18  synced recovery
+INFO 25/11/2023 12:48:19  synced recovery
+INFO 25/11/2023 12:48:20  synced recovery
+INFO 25/11/2023 12:48:21  synced recovery
+INFO 25/11/2023 12:48:24  synced recovery
+INFO 25/11/2023 12:48:27  synced recovery
+INFO 25/11/2023 12:48:36  synced recovery
+INFO 25/11/2023 12:48:38  synced recovery
+INFO 25/11/2023 12:48:38  synced recovery
+INFO 25/11/2023 12:48:41  synced recovery
+INFO 25/11/2023 12:53:27  synced recovery
+INFO 25/11/2023 12:53:43  synced recovery
+INFO 25/11/2023 12:53:53  synced recovery
+INFO 25/11/2023 12:54:05  synced recovery
+INFO 25/11/2023 12:54:11  synced recovery
+INFO 25/11/2023 12:54:20  synced recovery
+INFO 25/11/2023 12:54:58  synced recovery
+INFO 25/11/2023 12:55:02  synced recovery
+INFO 25/11/2023 12:55:02  synced recovery
+INFO 25/11/2023 12:55:03  synced recovery
+INFO 25/11/2023 12:55:46  [blur] 1
+INFO 25/11/2023 12:55:46  [win] blur
+INFO 25/11/2023 12:57:19  [focus] 1
+INFO 25/11/2023 12:58:15  synced recovery
+INFO 25/11/2023 12:58:16  synced recovery
+INFO 25/11/2023 12:58:17  synced recovery
+INFO 25/11/2023 12:58:41  synced recovery
+INFO 25/11/2023 12:58:45  synced recovery
+INFO 25/11/2023 12:58:46  synced recovery
+INFO 25/11/2023 12:58:47  synced recovery
+INFO 25/11/2023 12:59:00  synced recovery
+INFO 25/11/2023 12:59:00  synced recovery
+INFO 25/11/2023 12:59:05  synced recovery
+INFO 25/11/2023 12:59:06  synced recovery
+INFO 25/11/2023 12:59:17  synced recovery
+INFO 25/11/2023 12:59:21  synced recovery
+INFO 25/11/2023 12:59:29  synced recovery
+INFO 25/11/2023 12:59:29  synced recovery
+INFO 25/11/2023 12:59:33  synced recovery
+INFO 25/11/2023 12:59:33  synced recovery
+INFO 25/11/2023 12:59:37  synced recovery
+INFO 25/11/2023 12:59:59  synced recovery
+INFO 25/11/2023 13:00:03  synced recovery
+INFO 25/11/2023 13:00:04  synced recovery
+INFO 25/11/2023 13:00:06  synced recovery
+INFO 25/11/2023 13:00:06  synced recovery
+INFO 25/11/2023 13:00:11  synced recovery
+INFO 25/11/2023 13:00:14  synced recovery
+INFO 25/11/2023 13:00:18  synced recovery
+INFO 25/11/2023 13:00:20  synced recovery
+INFO 25/11/2023 13:00:21  synced recovery
+INFO 25/11/2023 13:00:22  synced recovery
+INFO 25/11/2023 13:00:28  synced recovery
+INFO 25/11/2023 13:00:30  synced recovery
+INFO 25/11/2023 13:00:32  synced recovery
+INFO 25/11/2023 13:00:33  synced recovery
+INFO 25/11/2023 13:00:35  synced recovery
+INFO 25/11/2023 13:00:35  synced recovery
+INFO 25/11/2023 13:00:36  synced recovery
+INFO 25/11/2023 13:00:39  synced recovery
+INFO 25/11/2023 13:00:40  synced recovery
+INFO 25/11/2023 13:00:43  synced recovery
+INFO 25/11/2023 13:00:57  synced recovery
+INFO 25/11/2023 13:00:58  synced recovery
+INFO 25/11/2023 13:01:04  synced recovery
+INFO 25/11/2023 13:01:27  synced recovery
+INFO 25/11/2023 13:02:27  synced recovery
+INFO 25/11/2023 13:02:36  synced recovery
+INFO 25/11/2023 13:02:43  synced recovery
+INFO 25/11/2023 13:02:50  synced recovery
+INFO 25/11/2023 13:03:14  synced recovery
+INFO 25/11/2023 13:03:19  synced recovery
+INFO 25/11/2023 13:03:23  synced recovery
+INFO 25/11/2023 13:03:24  synced recovery
+INFO 25/11/2023 13:03:26  synced recovery
+INFO 25/11/2023 13:04:28  synced recovery
+INFO 25/11/2023 13:04:31  synced recovery
+INFO 25/11/2023 13:04:36  synced recovery
+INFO 25/11/2023 13:04:43  synced recovery
+INFO 25/11/2023 13:04:52  synced recovery
+INFO 25/11/2023 13:05:01  synced recovery
+INFO 25/11/2023 13:05:03  synced recovery
+INFO 25/11/2023 13:05:05  synced recovery
+INFO 25/11/2023 13:05:08  synced recovery
+INFO 25/11/2023 13:05:09  synced recovery
+INFO 25/11/2023 13:05:13  synced recovery
+INFO 25/11/2023 13:05:29  synced recovery
+INFO 25/11/2023 13:05:36  synced recovery
+INFO 25/11/2023 13:05:39  synced recovery
+INFO 25/11/2023 13:05:43  synced recovery
+INFO 25/11/2023 13:05:45  synced recovery
+INFO 25/11/2023 13:05:49  synced recovery
+INFO 25/11/2023 13:05:52  synced recovery
+INFO 25/11/2023 13:06:04  synced recovery
+INFO 25/11/2023 13:06:08  synced recovery
+INFO 25/11/2023 13:06:12  synced recovery
+INFO 25/11/2023 13:06:22  synced recovery
+INFO 25/11/2023 13:06:33  synced recovery
+INFO 25/11/2023 13:06:34  synced recovery
+INFO 25/11/2023 13:06:36  synced recovery
+INFO 25/11/2023 13:06:41  synced recovery
+INFO 25/11/2023 13:06:45  synced recovery
+INFO 25/11/2023 13:06:54  synced recovery
+INFO 25/11/2023 13:06:57  synced recovery
+INFO 25/11/2023 13:07:07  synced recovery
+INFO 25/11/2023 13:07:09  synced recovery
+INFO 25/11/2023 13:07:10  synced recovery
+INFO 25/11/2023 13:07:12  synced recovery
+INFO 25/11/2023 13:07:17  synced recovery
+INFO 25/11/2023 13:07:21  synced recovery
+INFO 25/11/2023 13:07:25  synced recovery
+INFO 25/11/2023 13:07:26  synced recovery
+INFO 25/11/2023 13:07:28  synced recovery
+INFO 25/11/2023 13:07:34  synced recovery
+INFO 25/11/2023 13:07:43  synced recovery
+INFO 25/11/2023 13:07:50  synced recovery
+INFO 25/11/2023 13:07:57  synced recovery
+INFO 25/11/2023 13:08:01  synced recovery
+INFO 25/11/2023 13:08:08  synced recovery
+INFO 25/11/2023 13:08:34  synced recovery
+INFO 25/11/2023 13:08:38  synced recovery
+INFO 25/11/2023 13:08:44  synced recovery
+INFO 25/11/2023 13:08:49  synced recovery
+INFO 25/11/2023 13:08:55  synced recovery
+INFO 25/11/2023 13:08:56  synced recovery
+INFO 25/11/2023 13:08:57  synced recovery
+INFO 25/11/2023 13:08:57  synced recovery
+INFO 25/11/2023 13:09:00  synced recovery
+INFO 25/11/2023 13:09:03  synced recovery
+INFO 25/11/2023 13:09:04  synced recovery
+INFO 25/11/2023 13:09:05  synced recovery
+INFO 25/11/2023 13:09:05  synced recovery
+INFO 25/11/2023 13:09:06  synced recovery
+INFO 25/11/2023 13:09:10  synced recovery
+INFO 25/11/2023 13:09:11  synced recovery
+INFO 25/11/2023 13:09:12  synced recovery
+INFO 25/11/2023 13:09:12  synced recovery
+INFO 25/11/2023 13:09:13  synced recovery
+INFO 25/11/2023 13:09:16  synced recovery
+INFO 25/11/2023 13:09:17  synced recovery
+INFO 25/11/2023 13:09:17  synced recovery
+INFO 25/11/2023 13:09:21  synced recovery
+INFO 25/11/2023 13:09:24  synced recovery
+INFO 25/11/2023 13:09:25  synced recovery
+INFO 25/11/2023 13:09:28  synced recovery
+INFO 25/11/2023 13:09:29  synced recovery
+INFO 25/11/2023 13:09:32  synced recovery
+INFO 25/11/2023 13:09:35  synced recovery
+INFO 25/11/2023 13:09:36  synced recovery
+INFO 25/11/2023 13:09:37  synced recovery
+INFO 25/11/2023 13:09:40  synced recovery
+INFO 25/11/2023 13:09:40  synced recovery
+INFO 25/11/2023 13:09:42  synced recovery
+INFO 25/11/2023 13:09:42  synced recovery
+INFO 25/11/2023 13:09:53  synced recovery
+INFO 25/11/2023 13:09:57  synced recovery
+INFO 25/11/2023 13:10:03  synced recovery
+INFO 25/11/2023 13:10:05  synced recovery
+INFO 25/11/2023 13:10:07  synced recovery
+INFO 25/11/2023 13:10:08  synced recovery
+INFO 25/11/2023 13:10:09  synced recovery
+INFO 25/11/2023 13:10:14  synced recovery
+INFO 25/11/2023 13:10:16  synced recovery
+INFO 25/11/2023 13:10:23  synced recovery
+INFO 25/11/2023 13:10:25  synced recovery
+INFO 25/11/2023 13:10:31  synced recovery
+INFO 25/11/2023 13:10:34  synced recovery
+INFO 25/11/2023 13:10:40  synced recovery
+INFO 25/11/2023 13:10:44  synced recovery
+INFO 25/11/2023 13:10:50  synced recovery
+INFO 25/11/2023 13:10:54  synced recovery
+INFO 25/11/2023 13:10:59  synced recovery
+INFO 25/11/2023 13:11:03  synced recovery
+INFO 25/11/2023 13:11:05  synced recovery
+INFO 25/11/2023 13:11:47  synced recovery
+INFO 25/11/2023 13:11:49  synced recovery
+INFO 25/11/2023 13:11:56  synced recovery
+INFO 25/11/2023 13:12:03  synced recovery
+INFO 25/11/2023 13:12:08  synced recovery
+INFO 25/11/2023 13:12:14  synced recovery
+INFO 25/11/2023 13:12:18  synced recovery
+INFO 25/11/2023 13:12:19  synced recovery
+INFO 25/11/2023 13:13:23  synced recovery
+INFO 25/11/2023 13:13:25  synced recovery
+INFO 25/11/2023 13:13:33  synced recovery
+INFO 25/11/2023 13:13:36  synced recovery
+INFO 25/11/2023 13:13:42  synced recovery
+INFO 25/11/2023 13:13:51  synced recovery
+INFO 25/11/2023 13:13:54  synced recovery
+INFO 25/11/2023 13:14:01  synced recovery
+INFO 25/11/2023 13:14:14  synced recovery
+INFO 25/11/2023 13:14:18  synced recovery
+INFO 25/11/2023 13:14:25  synced recovery
+INFO 25/11/2023 13:14:30  synced recovery
+INFO 25/11/2023 13:14:40  synced recovery
+INFO 25/11/2023 13:14:46  synced recovery
+INFO 25/11/2023 13:14:49  synced recovery
+INFO 25/11/2023 13:14:54  synced recovery
+INFO 25/11/2023 13:14:57  synced recovery
+INFO 25/11/2023 13:15:03  synced recovery
+INFO 25/11/2023 13:15:12  synced recovery
+INFO 25/11/2023 13:15:19  synced recovery
+INFO 25/11/2023 13:15:23  synced recovery
+INFO 25/11/2023 13:17:20  synced recovery
+INFO 25/11/2023 13:17:47  synced recovery
+INFO 25/11/2023 13:21:18  synced recovery
+INFO 25/11/2023 13:21:20  synced recovery
+INFO 25/11/2023 13:21:22  synced recovery
+INFO 25/11/2023 13:21:22  synced recovery
+INFO 25/11/2023 13:21:24  synced recovery
+INFO 25/11/2023 13:21:24  synced recovery
+INFO 25/11/2023 13:21:26  synced recovery
+INFO 25/11/2023 13:21:27  synced recovery
+INFO 25/11/2023 13:21:30  synced recovery
+INFO 25/11/2023 13:21:32  synced recovery
+INFO 25/11/2023 13:26:13  synced recovery
+INFO 25/11/2023 13:26:14  synced recovery
+INFO 25/11/2023 13:27:26  synced recovery
+INFO 25/11/2023 13:27:27  synced recovery
+INFO 25/11/2023 13:27:34  synced recovery
+INFO 25/11/2023 13:27:35  synced recovery
+INFO 25/11/2023 13:27:36  synced recovery
+INFO 25/11/2023 13:27:37  synced recovery
+INFO 25/11/2023 13:27:37  synced recovery
+INFO 25/11/2023 13:27:39  synced recovery
+INFO 25/11/2023 13:27:49  synced recovery
+INFO 25/11/2023 13:27:54  synced recovery
+INFO 25/11/2023 13:27:57  synced recovery
+INFO 25/11/2023 13:28:00  synced recovery
+INFO 25/11/2023 13:28:14  synced recovery
+INFO 25/11/2023 13:28:15  synced recovery
+INFO 25/11/2023 13:28:16  synced recovery
+INFO 25/11/2023 13:28:17  synced recovery
+INFO 25/11/2023 13:28:20  synced recovery
+INFO 25/11/2023 13:28:23  synced recovery
+INFO 25/11/2023 13:28:25  synced recovery
+INFO 25/11/2023 13:28:28  synced recovery
+INFO 25/11/2023 13:28:29  synced recovery
+INFO 25/11/2023 13:28:33  synced recovery
+INFO 25/11/2023 13:28:35  synced recovery
+INFO 25/11/2023 13:28:36  synced recovery
+INFO 25/11/2023 13:28:37  synced recovery
+INFO 25/11/2023 13:28:37  synced recovery
+INFO 25/11/2023 13:28:41  synced recovery
+INFO 25/11/2023 13:28:53  synced recovery
+INFO 25/11/2023 13:30:55  synced recovery
+INFO 25/11/2023 13:31:47  synced recovery
+INFO 25/11/2023 13:32:13  synced recovery
+INFO 25/11/2023 13:32:19  synced recovery
+INFO 25/11/2023 13:32:23  synced recovery
+INFO 25/11/2023 13:32:24  synced recovery
+INFO 25/11/2023 13:32:34  synced recovery
+INFO 25/11/2023 13:32:39  synced recovery
+INFO 25/11/2023 13:32:41  synced recovery
+INFO 25/11/2023 13:32:42  synced recovery
+INFO 25/11/2023 13:32:47  synced recovery
+INFO 25/11/2023 13:32:48  synced recovery
+INFO 25/11/2023 13:33:23  synced recovery
+INFO 25/11/2023 13:34:25  synced recovery
+INFO 25/11/2023 13:34:32  synced recovery
+INFO 25/11/2023 13:34:48  [blur] 1
+INFO 25/11/2023 13:34:48  [win] blur
+INFO 25/11/2023 13:38:58  [focus] 1
+INFO 25/11/2023 13:39:07  [blur] 1
+INFO 25/11/2023 13:39:07  [win] blur
+INFO 25/11/2023 13:40:19  [focus] 1
+INFO 25/11/2023 13:40:32  [blur] 1
+INFO 25/11/2023 13:40:32  [win] blur
+INFO 25/11/2023 13:41:50  [focus] 1
+INFO 25/11/2023 13:42:12  synced recovery
+INFO 25/11/2023 13:42:13  synced recovery
+INFO 25/11/2023 13:42:44  [blur] 1
+INFO 25/11/2023 13:42:44  [win] blur
+INFO 25/11/2023 13:43:59  [focus] 1
+INFO 25/11/2023 13:44:07  synced recovery
+INFO 25/11/2023 13:44:26  synced recovery
+INFO 25/11/2023 13:44:31  synced recovery
+INFO 25/11/2023 13:44:34  synced recovery
+INFO 25/11/2023 13:44:35  synced recovery
+INFO 25/11/2023 13:44:39  synced recovery
+INFO 25/11/2023 13:44:40  synced recovery
+INFO 25/11/2023 13:44:43  synced recovery
+INFO 25/11/2023 13:44:46  synced recovery
+INFO 25/11/2023 13:44:47  synced recovery
+INFO 25/11/2023 13:44:50  synced recovery
+INFO 25/11/2023 13:44:57  synced recovery
+INFO 25/11/2023 13:45:05  synced recovery
+INFO 25/11/2023 13:45:09  synced recovery
+INFO 25/11/2023 13:45:13  synced recovery
+INFO 25/11/2023 13:45:27  synced recovery
+INFO 25/11/2023 13:45:32  synced recovery
+INFO 25/11/2023 13:45:35  synced recovery
+INFO 25/11/2023 13:45:46  synced recovery
+INFO 25/11/2023 13:46:06  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:07  synced recovery
+INFO 25/11/2023 13:46:08  synced recovery
+INFO 25/11/2023 13:46:08  synced recovery
+INFO 25/11/2023 13:46:17  synced recovery
+INFO 25/11/2023 13:46:17  synced recovery
+INFO 25/11/2023 13:46:28  synced recovery
+INFO 25/11/2023 13:46:31  synced recovery
+INFO 25/11/2023 13:46:32  synced recovery
+INFO 25/11/2023 13:46:33  synced recovery
+INFO 25/11/2023 13:47:25  synced recovery
+INFO 25/11/2023 13:47:40  synced recovery
+INFO 25/11/2023 13:48:18  synced recovery
+INFO 25/11/2023 13:48:52  synced recovery
+INFO 25/11/2023 13:49:04  synced recovery
+INFO 25/11/2023 13:49:34  synced recovery
+INFO 25/11/2023 13:50:34  synced recovery
+INFO 25/11/2023 13:51:54  synced recovery
+INFO 25/11/2023 13:52:30  synced recovery
+INFO 25/11/2023 13:52:43  synced recovery
+INFO 25/11/2023 13:52:45  synced recovery
+INFO 25/11/2023 13:52:50  synced recovery
+INFO 25/11/2023 13:52:52  synced recovery
+INFO 25/11/2023 13:52:53  synced recovery
+INFO 25/11/2023 13:53:24  synced recovery
+INFO 25/11/2023 13:53:58  synced recovery
+INFO 25/11/2023 13:54:32  synced recovery
+INFO 25/11/2023 13:54:44  synced recovery
+INFO 25/11/2023 13:55:03  [blur] 1
+INFO 25/11/2023 13:55:03  [win] blur
+INFO 25/11/2023 13:56:01  [focus] 1
+INFO 25/11/2023 13:56:01  addRecentDocument
+INFO 25/11/2023 13:56:01  synced recovery
+INFO 25/11/2023 13:56:19  load file [/tmp/1700934979922-0.24059262864022868.html] for PDF export
+INFO 25/11/2023 13:56:20  [blur] 1
+INFO 25/11/2023 13:56:20  [win] blur
+INFO 25/11/2023 13:56:20  generate print window with id 3
+INFO 25/11/2023 13:56:21  get PDF data
+INFO 25/11/2023 13:56:21  get background color
+INFO 25/11/2023 13:56:42  [focus] 1
+INFO 25/11/2023 13:56:42  [RenderProcess 1][Log] export PDF to /home/favio/Documentos/nexus flex.pdf
+INFO 25/11/2023 13:56:58  synced recovery
+INFO 25/11/2023 13:57:49  synced recovery
+INFO 25/11/2023 13:57:54  synced recovery
+INFO 25/11/2023 13:58:07  synced recovery
+INFO 25/11/2023 13:58:07  synced recovery
+INFO 25/11/2023 13:58:07  ----------------before-quit-----------------
+INFO 25/11/2023 13:58:07  ------------------will-quit------------------
+INFO 25/11/2023 13:58:07  -----------------quit------------------
+INFO 25/11/2023 13:58:07  closeLogging
+INFO 29/11/2023 17:12:33  launch with argv [/usr/share/typora/Typora]
+INFO 29/11/2023 17:12:34  start LM in devVersion=true
+INFO 29/11/2023 17:12:34  [Raven] instanceKey = 5bfadcb9-8ac1-4f02-9eec-51592a7697c9
+INFO 29/11/2023 17:12:34  ls put SLicense
+INFO 29/11/2023 17:12:34  [validateTrail] installDate is 11/29/2023, trail remains: 15 days
+INFO 29/11/2023 17:12:34  ------------------start------------------
+INFO 29/11/2023 17:12:34  typora version: 0.11.18
+INFO 29/11/2023 17:12:34  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 29/11/2023 17:12:35  [focus] 1
+INFO 29/11/2023 17:12:35  synced recovery
+INFO 29/11/2023 17:12:37  handle document.loadInitData
+INFO 29/11/2023 17:12:37  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 17:12:37  synced recovery
+INFO 29/11/2023 17:12:37  [RenderProcess 1][Log] onBecomeActive
+INFO 29/11/2023 17:12:37  [RenderProcess 1][Log] File.activeWindow = true
+INFO 29/11/2023 17:13:07  synced recovery
+INFO 29/11/2023 17:13:15  synced recovery
+INFO 29/11/2023 17:18:21  [blur] 1
+INFO 29/11/2023 17:18:21  [win] blur
+INFO 29/11/2023 17:18:23  [focus] 1
+INFO 29/11/2023 17:18:24  [blur] 1
+INFO 29/11/2023 17:18:24  [win] blur
+INFO 29/11/2023 17:19:01  [focus] 1
+INFO 29/11/2023 17:19:04  [blur] 1
+INFO 29/11/2023 17:19:04  [win] blur
+INFO 29/11/2023 17:21:11  [focus] 1
+INFO 29/11/2023 17:21:16  [blur] 1
+INFO 29/11/2023 17:21:16  [win] blur
+INFO 29/11/2023 17:23:30  [focus] 1
+INFO 29/11/2023 17:23:36  synced recovery
+INFO 29/11/2023 17:23:49  synced recovery
+INFO 29/11/2023 17:23:49  ----------------before-quit-----------------
+INFO 29/11/2023 17:23:49  ------------------will-quit------------------
+INFO 29/11/2023 17:23:49  -----------------quit------------------
+INFO 29/11/2023 17:23:49  closeLogging
+INFO 29/11/2023 18:43:38  launch with argv [/usr/share/typora/Typora]
+INFO 29/11/2023 18:43:38  start LM in devVersion=true
+INFO 29/11/2023 18:43:38  [Raven] instanceKey = 7b0ae948-4369-47e9-b71d-ee16471612bc
+INFO 29/11/2023 18:43:38  ls put SLicense
+INFO 29/11/2023 18:43:38  [validateTrail] installDate is 11/29/2023, trail remains: 15 days
+INFO 29/11/2023 18:43:38  ------------------start------------------
+INFO 29/11/2023 18:43:38  typora version: 0.11.18
+INFO 29/11/2023 18:43:38  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 29/11/2023 18:43:39  [focus] 1
+INFO 29/11/2023 18:43:39  synced recovery
+INFO 29/11/2023 18:43:40  handle document.loadInitData
+INFO 29/11/2023 18:43:40  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 18:43:40  synced recovery
+INFO 29/11/2023 18:43:40  [RenderProcess 1][Log] onBecomeActive
+INFO 29/11/2023 18:43:40  [RenderProcess 1][Log] File.activeWindow = true
+INFO 29/11/2023 18:43:44  synced recovery
+INFO 29/11/2023 18:43:46  synced recovery
+INFO 29/11/2023 18:43:47  synced recovery
+INFO 29/11/2023 18:43:48  synced recovery
+INFO 29/11/2023 18:43:48  synced recovery
+INFO 29/11/2023 18:43:50  synced recovery
+INFO 29/11/2023 18:43:53  synced recovery
+INFO 29/11/2023 18:43:55  [blur] 1
+INFO 29/11/2023 18:43:55  [win] blur
+INFO 29/11/2023 18:44:03  [focus] 1
+INFO 29/11/2023 18:44:04  [blur] 1
+INFO 29/11/2023 18:44:04  [win] blur
+INFO 29/11/2023 18:46:30  [focus] 1
+INFO 29/11/2023 18:46:31  synced recovery
+INFO 29/11/2023 18:46:41  synced recovery
+INFO 29/11/2023 18:46:42  synced recovery
+INFO 29/11/2023 18:46:47  synced recovery
+INFO 29/11/2023 18:46:49  synced recovery
+INFO 29/11/2023 18:46:49  synced recovery
+INFO 29/11/2023 18:46:51  synced recovery
+INFO 29/11/2023 18:46:51  synced recovery
+INFO 29/11/2023 18:46:52  synced recovery
+INFO 29/11/2023 18:46:54  synced recovery
+INFO 29/11/2023 18:46:56  synced recovery
+INFO 29/11/2023 18:47:08  synced recovery
+INFO 29/11/2023 18:47:11  synced recovery
+INFO 29/11/2023 18:47:13  [blur] 1
+INFO 29/11/2023 18:47:13  [win] blur
+INFO 29/11/2023 18:47:14  [focus] 1
+INFO 29/11/2023 18:47:16  [blur] 1
+INFO 29/11/2023 18:47:16  [win] blur
+INFO 29/11/2023 18:47:17  [focus] 1
+INFO 29/11/2023 18:47:17  [blur] 1
+INFO 29/11/2023 18:47:17  [win] blur
+INFO 29/11/2023 18:50:17  [focus] 1
+INFO 29/11/2023 18:50:19  synced recovery
+INFO 29/11/2023 18:50:20  synced recovery
+INFO 29/11/2023 18:50:21  synced recovery
+INFO 29/11/2023 18:50:26  synced recovery
+INFO 29/11/2023 18:50:28  synced recovery
+INFO 29/11/2023 18:50:28  synced recovery
+INFO 29/11/2023 18:50:33  synced recovery
+INFO 29/11/2023 18:50:34  synced recovery
+INFO 29/11/2023 18:50:36  synced recovery
+INFO 29/11/2023 18:50:37  synced recovery
+INFO 29/11/2023 18:50:40  synced recovery
+INFO 29/11/2023 18:50:42  synced recovery
+INFO 29/11/2023 18:50:59  [blur] 1
+INFO 29/11/2023 18:50:59  [win] blur
+INFO 29/11/2023 18:51:09  [focus] 1
+INFO 29/11/2023 18:51:11  synced recovery
+INFO 29/11/2023 18:51:23  synced recovery
+INFO 29/11/2023 18:51:27  synced recovery
+INFO 29/11/2023 18:51:29  [blur] 1
+INFO 29/11/2023 18:51:29  [win] blur
+INFO 29/11/2023 18:51:30  [focus] 1
+INFO 29/11/2023 18:51:31  [blur] 1
+INFO 29/11/2023 18:51:31  [win] blur
+INFO 29/11/2023 18:52:59  [focus] 1
+INFO 29/11/2023 18:53:01  synced recovery
+INFO 29/11/2023 18:53:06  synced recovery
+INFO 29/11/2023 18:53:07  synced recovery
+INFO 29/11/2023 18:53:36  [blur] 1
+INFO 29/11/2023 18:53:36  [win] blur
+INFO 29/11/2023 18:54:13  [focus] 1
+INFO 29/11/2023 18:54:24  [blur] 1
+INFO 29/11/2023 18:54:24  [win] blur
+INFO 29/11/2023 18:54:25  [focus] 1
+INFO 29/11/2023 18:54:26  [blur] 1
+INFO 29/11/2023 18:54:26  [win] blur
+INFO 29/11/2023 18:54:30  [focus] 1
+INFO 29/11/2023 18:54:35  synced recovery
+INFO 29/11/2023 18:54:36  synced recovery
+INFO 29/11/2023 18:54:56  synced recovery
+INFO 29/11/2023 18:54:56  synced recovery
+INFO 29/11/2023 18:55:13  [blur] 1
+INFO 29/11/2023 18:55:13  [win] blur
+INFO 29/11/2023 18:56:17  [focus] 1
+INFO 29/11/2023 18:56:25  synced recovery
+INFO 29/11/2023 18:56:26  synced recovery
+INFO 29/11/2023 18:56:34  synced recovery
+INFO 29/11/2023 18:56:38  synced recovery
+INFO 29/11/2023 18:56:42  synced recovery
+INFO 29/11/2023 18:56:44  synced recovery
+INFO 29/11/2023 18:56:59  [blur] 1
+INFO 29/11/2023 18:56:59  [win] blur
+INFO 29/11/2023 18:57:06  [focus] 1
+INFO 29/11/2023 18:57:07  [blur] 1
+INFO 29/11/2023 18:57:07  [win] blur
+INFO 29/11/2023 18:58:55  [focus] 1
+INFO 29/11/2023 18:58:56  [blur] 1
+INFO 29/11/2023 18:58:56  [win] blur
+INFO 29/11/2023 18:59:05  [focus] 1
+INFO 29/11/2023 18:59:07  [blur] 1
+INFO 29/11/2023 18:59:07  [win] blur
+INFO 29/11/2023 19:00:12  [focus] 1
+INFO 29/11/2023 19:00:19  synced recovery
+INFO 29/11/2023 19:00:20  synced recovery
+INFO 29/11/2023 19:00:25  synced recovery
+INFO 29/11/2023 19:00:28  synced recovery
+INFO 29/11/2023 19:00:30  synced recovery
+INFO 29/11/2023 19:00:36  synced recovery
+INFO 29/11/2023 19:00:52  [blur] 1
+INFO 29/11/2023 19:00:52  [win] blur
+INFO 29/11/2023 19:00:53  [focus] 1
+INFO 29/11/2023 19:00:54  synced recovery
+INFO 29/11/2023 19:00:56  synced recovery
+INFO 29/11/2023 19:01:21  [blur] 1
+INFO 29/11/2023 19:01:21  [win] blur
+INFO 29/11/2023 19:01:28  [focus] 1
+INFO 29/11/2023 19:01:36  [blur] 1
+INFO 29/11/2023 19:01:36  [win] blur
+INFO 29/11/2023 19:03:45  [focus] 1
+INFO 29/11/2023 19:03:46  [blur] 1
+INFO 29/11/2023 19:03:46  [win] blur
+INFO 29/11/2023 19:03:55  [focus] 1
+INFO 29/11/2023 19:03:57  synced recovery
+INFO 29/11/2023 19:04:09  synced recovery
+INFO 29/11/2023 19:04:13  synced recovery
+INFO 29/11/2023 19:04:15  synced recovery
+INFO 29/11/2023 19:04:17  synced recovery
+INFO 29/11/2023 19:04:19  synced recovery
+INFO 29/11/2023 19:04:26  synced recovery
+INFO 29/11/2023 19:04:28  [blur] 1
+INFO 29/11/2023 19:04:28  [win] blur
+INFO 29/11/2023 19:04:32  [focus] 1
+INFO 29/11/2023 19:04:39  synced recovery
+INFO 29/11/2023 19:04:40  synced recovery
+INFO 29/11/2023 19:04:43  synced recovery
+INFO 29/11/2023 19:04:46  synced recovery
+INFO 29/11/2023 19:04:48  synced recovery
+INFO 29/11/2023 19:05:00  [blur] 1
+INFO 29/11/2023 19:05:00  [win] blur
+INFO 29/11/2023 19:05:18  [focus] 1
+INFO 29/11/2023 19:05:21  synced recovery
+INFO 29/11/2023 19:05:23  synced recovery
+INFO 29/11/2023 19:05:32  [blur] 1
+INFO 29/11/2023 19:05:32  [win] blur
+INFO 29/11/2023 19:05:33  [focus] 1
+INFO 29/11/2023 19:05:49  [blur] 1
+INFO 29/11/2023 19:05:49  [win] blur
+INFO 29/11/2023 19:05:55  [focus] 1
+INFO 29/11/2023 19:05:55  [blur] 1
+INFO 29/11/2023 19:05:55  [win] blur
+INFO 29/11/2023 19:06:17  [focus] 1
+INFO 29/11/2023 19:06:20  synced recovery
+INFO 29/11/2023 19:06:22  synced recovery
+INFO 29/11/2023 19:06:27  [blur] 1
+INFO 29/11/2023 19:06:27  [win] blur
+INFO 29/11/2023 19:06:53  [focus] 1
+INFO 29/11/2023 19:06:56  synced recovery
+INFO 29/11/2023 19:07:42  [blur] 1
+INFO 29/11/2023 19:07:42  [win] blur
+INFO 29/11/2023 19:10:50  [focus] 1
+INFO 29/11/2023 19:10:57  synced recovery
+INFO 29/11/2023 19:10:58  synced recovery
+INFO 29/11/2023 19:11:01  synced recovery
+INFO 29/11/2023 19:11:02  [blur] 1
+INFO 29/11/2023 19:11:02  [win] blur
+INFO 29/11/2023 19:11:33  [focus] 1
+INFO 29/11/2023 19:11:33  [blur] 1
+INFO 29/11/2023 19:11:33  [win] blur
+INFO 29/11/2023 19:12:42  [focus] 1
+INFO 29/11/2023 19:12:43  [blur] 1
+INFO 29/11/2023 19:12:43  [win] blur
+INFO 29/11/2023 19:12:54  [focus] 1
+INFO 29/11/2023 19:13:10  [blur] 1
+INFO 29/11/2023 19:13:10  [win] blur
+INFO 29/11/2023 19:13:14  [focus] 1
+INFO 29/11/2023 19:13:17  got argv [typora] from secondary instance
+INFO 29/11/2023 19:13:17  [blur] 1
+INFO 29/11/2023 19:13:17  [win] blur
+INFO 29/11/2023 19:13:17  [focus] 2
+INFO 29/11/2023 19:13:17  synced recovery
+INFO 29/11/2023 19:13:17  secondary instance would exit
+INFO 29/11/2023 19:13:18  handle document.loadInitData
+INFO 29/11/2023 19:13:18  [RenderProcess 2][Log] getContent
+INFO 29/11/2023 19:13:18  synced recovery
+INFO 29/11/2023 19:13:18  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 19:13:18  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 19:13:23  synced recovery
+INFO 29/11/2023 19:13:23  synced recovery
+INFO 29/11/2023 19:13:24  synced recovery
+INFO 29/11/2023 19:13:26  synced recovery
+INFO 29/11/2023 19:13:28  synced recovery
+INFO 29/11/2023 19:13:29  synced recovery
+INFO 29/11/2023 19:13:30  synced recovery
+INFO 29/11/2023 19:13:30  synced recovery
+INFO 29/11/2023 19:13:31  synced recovery
+INFO 29/11/2023 19:13:32  synced recovery
+INFO 29/11/2023 19:13:41  [blur] 2
+INFO 29/11/2023 19:13:41  [win] blur
+INFO 29/11/2023 19:13:41  [focus] 1
+INFO 29/11/2023 19:13:42  [blur] 1
+INFO 29/11/2023 19:13:42  [win] blur
+INFO 29/11/2023 19:14:18  [focus] 1
+INFO 29/11/2023 19:14:20  [blur] 1
+INFO 29/11/2023 19:14:20  [win] blur
+INFO 29/11/2023 19:15:05  [focus] 1
+INFO 29/11/2023 19:15:10  [blur] 1
+INFO 29/11/2023 19:15:10  [win] blur
+INFO 29/11/2023 19:16:08  [focus] 1
+INFO 29/11/2023 19:16:14  [blur] 1
+INFO 29/11/2023 19:16:14  [win] blur
+INFO 29/11/2023 19:18:39  [focus] 1
+INFO 29/11/2023 19:18:41  [blur] 1
+INFO 29/11/2023 19:18:41  [win] blur
+INFO 29/11/2023 19:19:34  [focus] 1
+INFO 29/11/2023 19:19:35  [blur] 1
+INFO 29/11/2023 19:19:35  [win] blur
+INFO 29/11/2023 19:19:35  [focus] 2
+INFO 29/11/2023 19:19:35  synced recovery
+INFO 29/11/2023 19:19:40  [blur] 2
+INFO 29/11/2023 19:19:40  [win] blur
+INFO 29/11/2023 19:19:40  [focus] 1
+INFO 29/11/2023 19:19:40  synced recovery
+INFO 29/11/2023 19:19:46  [blur] 1
+INFO 29/11/2023 19:19:46  [win] blur
+INFO 29/11/2023 19:19:46  [focus] 2
+INFO 29/11/2023 19:19:46  synced recovery
+INFO 29/11/2023 19:19:47  synced recovery
+INFO 29/11/2023 19:19:52  synced recovery
+INFO 29/11/2023 19:19:52  synced recovery
+INFO 29/11/2023 19:20:00  [blur] 2
+INFO 29/11/2023 19:20:00  [win] blur
+INFO 29/11/2023 19:20:00  [focus] 1
+INFO 29/11/2023 19:20:07  [blur] 1
+INFO 29/11/2023 19:20:07  [win] blur
+INFO 29/11/2023 19:20:07  [focus] 2
+INFO 29/11/2023 19:20:07  synced recovery
+INFO 29/11/2023 19:20:08  synced recovery
+INFO 29/11/2023 19:20:19  [blur] 2
+INFO 29/11/2023 19:20:19  [win] blur
+INFO 29/11/2023 19:20:19  [focus] 1
+INFO 29/11/2023 19:20:23  [blur] 1
+INFO 29/11/2023 19:20:23  [win] blur
+INFO 29/11/2023 19:20:23  [focus] 2
+INFO 29/11/2023 19:20:24  synced recovery
+INFO 29/11/2023 19:20:25  synced recovery
+INFO 29/11/2023 19:20:27  [blur] 2
+INFO 29/11/2023 19:20:27  [win] blur
+INFO 29/11/2023 19:20:27  [focus] 1
+INFO 29/11/2023 19:20:29  [blur] 1
+INFO 29/11/2023 19:20:29  [win] blur
+INFO 29/11/2023 19:20:29  [focus] 2
+INFO 29/11/2023 19:20:31  [blur] 2
+INFO 29/11/2023 19:20:31  [win] blur
+INFO 29/11/2023 19:20:36  [focus] 2
+INFO 29/11/2023 19:20:38  synced recovery
+INFO 29/11/2023 19:20:43  synced recovery
+INFO 29/11/2023 19:20:51  [blur] 2
+INFO 29/11/2023 19:20:51  [win] blur
+INFO 29/11/2023 19:23:38  [focus] 2
+INFO 29/11/2023 19:23:45  synced recovery
+INFO 29/11/2023 19:23:51  synced recovery
+INFO 29/11/2023 19:24:05  [blur] 2
+INFO 29/11/2023 19:24:05  [win] blur
+INFO 29/11/2023 19:24:29  [focus] 2
+INFO 29/11/2023 19:24:35  synced recovery
+INFO 29/11/2023 19:24:45  synced recovery
+INFO 29/11/2023 19:24:47  synced recovery
+INFO 29/11/2023 19:24:52  synced recovery
+INFO 29/11/2023 19:24:53  synced recovery
+INFO 29/11/2023 19:24:56  synced recovery
+INFO 29/11/2023 19:24:57  synced recovery
+INFO 29/11/2023 19:24:58  synced recovery
+INFO 29/11/2023 19:25:03  synced recovery
+INFO 29/11/2023 19:25:11  synced recovery
+INFO 29/11/2023 19:25:12  synced recovery
+INFO 29/11/2023 19:25:16  synced recovery
+INFO 29/11/2023 19:25:18  synced recovery
+INFO 29/11/2023 19:25:30  synced recovery
+INFO 29/11/2023 19:25:42  [blur] 2
+INFO 29/11/2023 19:25:42  [win] blur
+INFO 29/11/2023 19:26:11  [focus] 2
+INFO 29/11/2023 19:26:16  synced recovery
+INFO 29/11/2023 19:26:19  synced recovery
+INFO 29/11/2023 19:26:25  synced recovery
+INFO 29/11/2023 19:26:26  synced recovery
+INFO 29/11/2023 19:26:34  synced recovery
+INFO 29/11/2023 19:26:35  synced recovery
+INFO 29/11/2023 19:26:40  synced recovery
+INFO 29/11/2023 19:26:43  synced recovery
+INFO 29/11/2023 19:26:47  synced recovery
+INFO 29/11/2023 19:26:48  synced recovery
+INFO 29/11/2023 19:26:58  synced recovery
+INFO 29/11/2023 19:27:01  synced recovery
+INFO 29/11/2023 19:27:02  synced recovery
+INFO 29/11/2023 19:27:04  synced recovery
+INFO 29/11/2023 19:27:05  synced recovery
+INFO 29/11/2023 19:27:06  synced recovery
+INFO 29/11/2023 19:27:07  synced recovery
+INFO 29/11/2023 19:27:17  synced recovery
+INFO 29/11/2023 19:27:18  synced recovery
+INFO 29/11/2023 19:27:24  synced recovery
+INFO 29/11/2023 19:27:25  synced recovery
+INFO 29/11/2023 19:27:31  synced recovery
+INFO 29/11/2023 19:27:32  synced recovery
+INFO 29/11/2023 19:27:35  [blur] 2
+INFO 29/11/2023 19:27:35  [win] blur
+INFO 29/11/2023 19:27:38  [focus] 2
+INFO 29/11/2023 19:27:42  synced recovery
+INFO 29/11/2023 19:27:47  synced recovery
+INFO 29/11/2023 19:27:49  synced recovery
+INFO 29/11/2023 19:27:56  synced recovery
+INFO 29/11/2023 19:27:57  synced recovery
+INFO 29/11/2023 19:28:13  [blur] 2
+INFO 29/11/2023 19:28:13  [win] blur
+INFO 29/11/2023 19:28:13  [focus] 1
+INFO 29/11/2023 19:28:16  [blur] 1
+INFO 29/11/2023 19:28:16  [win] blur
+INFO 29/11/2023 19:32:08  [focus] 1
+INFO 29/11/2023 19:32:49  [blur] 1
+INFO 29/11/2023 19:32:49  [win] blur
+INFO 29/11/2023 19:33:39  [focus] 1
+INFO 29/11/2023 19:33:40  [blur] 1
+INFO 29/11/2023 19:33:40  [win] blur
+INFO 29/11/2023 19:33:40  [focus] 2
+INFO 29/11/2023 19:33:41  synced recovery
+INFO 29/11/2023 19:33:56  synced recovery
+INFO 29/11/2023 19:34:00  synced recovery
+INFO 29/11/2023 19:34:03  synced recovery
+INFO 29/11/2023 19:34:11  [blur] 2
+INFO 29/11/2023 19:34:11  [win] blur
+INFO 29/11/2023 19:34:11  [focus] 1
+INFO 29/11/2023 19:34:54  synced recovery
+INFO 29/11/2023 19:34:58  synced recovery
+INFO 29/11/2023 19:35:04  [blur] 1
+INFO 29/11/2023 19:35:04  [win] blur
+INFO 29/11/2023 19:35:04  [focus] 2
+INFO 29/11/2023 19:35:04  synced recovery
+INFO 29/11/2023 19:35:05  synced recovery
+INFO 29/11/2023 19:35:07  synced recovery
+INFO 29/11/2023 19:35:09  [blur] 2
+INFO 29/11/2023 19:35:09  [win] blur
+INFO 29/11/2023 19:35:19  [focus] 2
+INFO 29/11/2023 19:35:23  synced recovery
+INFO 29/11/2023 19:35:37  [blur] 2
+INFO 29/11/2023 19:35:37  [win] blur
+INFO 29/11/2023 19:35:37  [focus] 1
+INFO 29/11/2023 19:35:52  [blur] 1
+INFO 29/11/2023 19:35:52  [win] blur
+INFO 29/11/2023 19:35:52  [focus] 2
+INFO 29/11/2023 19:35:59  [blur] 2
+INFO 29/11/2023 19:35:59  [win] blur
+INFO 29/11/2023 19:35:59  [focus] 1
+INFO 29/11/2023 19:36:03  [blur] 1
+INFO 29/11/2023 19:36:03  [win] blur
+INFO 29/11/2023 19:36:49  [focus] 1
+INFO 29/11/2023 19:36:50  addRecentDocument
+INFO 29/11/2023 19:36:50  synced recovery
+INFO 29/11/2023 19:36:52  [blur] 1
+INFO 29/11/2023 19:36:52  [win] blur
+INFO 29/11/2023 19:36:52  [focus] 2
+INFO 29/11/2023 19:36:55  [blur] 2
+INFO 29/11/2023 19:36:55  [win] blur
+INFO 29/11/2023 19:37:05  [focus] 2
+INFO 29/11/2023 19:37:05  addRecentDocument
+INFO 29/11/2023 19:37:05  synced recovery
+INFO 29/11/2023 19:37:17  [blur] 2
+INFO 29/11/2023 19:37:17  [win] blur
+INFO 29/11/2023 19:37:17  [focus] 1
+INFO 29/11/2023 19:37:21  [blur] 1
+INFO 29/11/2023 19:37:21  [win] blur
+INFO 29/11/2023 19:37:21  [focus] 2
+INFO 29/11/2023 19:37:39  [downloadDict] downloading https://dict.typora.io/es/index.dic
+INFO 29/11/2023 19:37:39  [downloadDict] downloading https://dict.typora.io/es/index.aff
+INFO 29/11/2023 19:37:45  [blur] 2
+INFO 29/11/2023 19:37:45  [win] blur
+INFO 29/11/2023 19:37:45  [focus] 1
+INFO 29/11/2023 19:37:47  synced recovery
+INFO 29/11/2023 19:37:50  synced recovery
+INFO 29/11/2023 19:37:51  synced recovery
+INFO 29/11/2023 19:37:52  synced recovery
+INFO 29/11/2023 19:37:52  synced recovery
+INFO 29/11/2023 19:37:53  synced recovery
+INFO 29/11/2023 19:37:57  synced recovery
+INFO 29/11/2023 19:37:59  synced recovery
+INFO 29/11/2023 19:37:59  synced recovery
+INFO 29/11/2023 19:38:04  [blur] 1
+INFO 29/11/2023 19:38:04  [win] blur
+INFO 29/11/2023 19:38:04  [focus] 2
+INFO 29/11/2023 19:38:10  [blur] 2
+INFO 29/11/2023 19:38:10  [win] blur
+INFO 29/11/2023 19:38:10  [focus] 1
+INFO 29/11/2023 19:38:30  synced recovery
+INFO 29/11/2023 19:38:31  synced recovery
+INFO 29/11/2023 19:38:32  synced recovery
+INFO 29/11/2023 19:38:48  synced recovery
+INFO 29/11/2023 19:38:50  synced recovery
+INFO 29/11/2023 19:38:51  synced recovery
+INFO 29/11/2023 19:38:54  synced recovery
+INFO 29/11/2023 19:38:54  synced recovery
+INFO 29/11/2023 19:39:24  synced recovery
+INFO 29/11/2023 19:39:57  [blur] 1
+INFO 29/11/2023 19:39:57  [win] blur
+INFO 29/11/2023 19:39:57  [focus] 2
+INFO 29/11/2023 19:39:58  synced recovery
+INFO 29/11/2023 19:40:05  synced recovery
+INFO 29/11/2023 19:40:06  synced recovery
+INFO 29/11/2023 19:40:06  [blur] 2
+INFO 29/11/2023 19:40:06  [win] blur
+INFO 29/11/2023 19:40:06  [focus] 1
+INFO 29/11/2023 19:40:06  synced recovery
+INFO 29/11/2023 19:40:07  synced recovery
+INFO 29/11/2023 19:40:08  [blur] 1
+INFO 29/11/2023 19:40:08  [win] blur
+INFO 29/11/2023 19:41:54  [focus] 1
+INFO 29/11/2023 19:41:55  [blur] 1
+INFO 29/11/2023 19:41:55  [win] blur
+INFO 29/11/2023 19:49:06  [focus] 1
+INFO 29/11/2023 19:49:19  [blur] 1
+INFO 29/11/2023 19:49:19  [win] blur
+INFO 29/11/2023 19:49:19  [focus] 2
+INFO 29/11/2023 19:49:57  [blur] 2
+INFO 29/11/2023 19:49:57  [win] blur
+INFO 29/11/2023 19:49:57  [focus] 1
+INFO 29/11/2023 19:50:01  [blur] 1
+INFO 29/11/2023 19:50:01  [win] blur
+INFO 29/11/2023 19:50:01  [focus] 2
+INFO 29/11/2023 19:50:02  synced recovery
+INFO 29/11/2023 19:50:02  synced recovery
+INFO 29/11/2023 19:50:03  synced recovery
+INFO 29/11/2023 19:50:03  synced recovery
+INFO 29/11/2023 19:50:04  synced recovery
+INFO 29/11/2023 19:50:05  synced recovery
+INFO 29/11/2023 19:50:07  synced recovery
+INFO 29/11/2023 19:50:21  synced recovery
+INFO 29/11/2023 19:50:22  synced recovery
+INFO 29/11/2023 19:50:33  synced recovery
+INFO 29/11/2023 19:51:02  [blur] 2
+INFO 29/11/2023 19:51:02  [win] blur
+INFO 29/11/2023 19:51:34  [focus] 2
+INFO 29/11/2023 19:51:35  [blur] 2
+INFO 29/11/2023 19:51:35  [win] blur
+INFO 29/11/2023 19:53:04  [focus] 2
+INFO 29/11/2023 19:53:07  [blur] 2
+INFO 29/11/2023 19:53:07  [win] blur
+INFO 29/11/2023 19:53:07  [focus] 1
+INFO 29/11/2023 19:53:15  [blur] 1
+INFO 29/11/2023 19:53:15  [win] blur
+INFO 29/11/2023 19:53:38  [focus] 1
+INFO 29/11/2023 19:53:48  [blur] 1
+INFO 29/11/2023 19:53:48  [win] blur
+INFO 29/11/2023 19:53:50  [focus] 1
+INFO 29/11/2023 19:53:51  [blur] 1
+INFO 29/11/2023 19:53:51  [win] blur
+INFO 29/11/2023 19:55:39  [focus] 1
+INFO 29/11/2023 19:55:44  synced recovery
+INFO 29/11/2023 19:55:46  synced recovery
+INFO 29/11/2023 19:55:51  [blur] 1
+INFO 29/11/2023 19:55:51  [win] blur
+INFO 29/11/2023 19:56:05  [focus] 1
+INFO 29/11/2023 19:56:10  synced recovery
+INFO 29/11/2023 19:56:11  [blur] 1
+INFO 29/11/2023 19:56:11  [win] blur
+INFO 29/11/2023 19:56:23  [focus] 1
+INFO 29/11/2023 19:56:25  synced recovery
+INFO 29/11/2023 19:56:31  synced recovery
+INFO 29/11/2023 19:56:36  synced recovery
+INFO 29/11/2023 19:56:42  synced recovery
+INFO 29/11/2023 19:56:48  synced recovery
+INFO 29/11/2023 19:56:56  [blur] 1
+INFO 29/11/2023 19:56:56  [win] blur
+INFO 29/11/2023 19:57:04  [focus] 1
+INFO 29/11/2023 19:57:06  synced recovery
+INFO 29/11/2023 19:57:19  [blur] 1
+INFO 29/11/2023 19:57:19  [win] blur
+INFO 29/11/2023 19:58:01  [focus] 1
+INFO 29/11/2023 19:58:01  [blur] 1
+INFO 29/11/2023 19:58:01  [win] blur
+INFO 29/11/2023 19:58:03  [focus] 1
+INFO 29/11/2023 19:58:16  [blur] 1
+INFO 29/11/2023 19:58:16  [win] blur
+INFO 29/11/2023 19:58:16  [focus] 2
+INFO 29/11/2023 19:58:23  [blur] 2
+INFO 29/11/2023 19:58:23  [win] blur
+INFO 29/11/2023 20:01:22  [focus] 2
+INFO 29/11/2023 20:01:26  synced recovery
+INFO 29/11/2023 20:01:34  [blur] 2
+INFO 29/11/2023 20:01:34  [win] blur
+INFO 29/11/2023 20:01:34  [focus] 1
+INFO 29/11/2023 20:01:36  [blur] 1
+INFO 29/11/2023 20:01:36  [win] blur
+INFO 29/11/2023 20:01:36  [focus] 2
+INFO 29/11/2023 20:01:37  synced recovery
+INFO 29/11/2023 20:01:40  synced recovery
+INFO 29/11/2023 20:01:49  synced recovery
+INFO 29/11/2023 20:01:49  [blur] 2
+INFO 29/11/2023 20:01:49  [win] blur
+INFO 29/11/2023 20:01:49  [focus] 1
+INFO 29/11/2023 20:01:50  synced recovery
+INFO 29/11/2023 20:01:50  synced recovery
+INFO 29/11/2023 20:01:51  [blur] 1
+INFO 29/11/2023 20:01:51  [win] blur
+INFO 29/11/2023 20:01:51  [focus] 2
+INFO 29/11/2023 20:02:52  [blur] 2
+INFO 29/11/2023 20:02:52  [win] blur
+INFO 29/11/2023 20:02:52  [focus] 1
+INFO 29/11/2023 20:02:53  synced recovery
+INFO 29/11/2023 20:03:01  synced recovery
+INFO 29/11/2023 20:03:01  synced recovery
+INFO 29/11/2023 20:03:02  [blur] 1
+INFO 29/11/2023 20:03:02  [win] blur
+INFO 29/11/2023 20:03:02  [focus] 2
+INFO 29/11/2023 20:03:02  synced recovery
+INFO 29/11/2023 20:03:02  synced recovery
+INFO 29/11/2023 20:03:03  [blur] 2
+INFO 29/11/2023 20:03:03  [win] blur
+INFO 29/11/2023 20:03:03  [focus] 1
+INFO 29/11/2023 20:03:04  synced recovery
+INFO 29/11/2023 20:03:04  synced recovery
+INFO 29/11/2023 20:03:04  [blur] 1
+INFO 29/11/2023 20:03:04  [win] blur
+INFO 29/11/2023 20:03:04  [focus] 2
+INFO 29/11/2023 20:03:10  [blur] 2
+INFO 29/11/2023 20:03:10  [win] blur
+INFO 29/11/2023 20:03:11  [focus] 2
+INFO 29/11/2023 20:03:11  [blur] 2
+INFO 29/11/2023 20:03:11  [win] blur
+INFO 29/11/2023 20:03:21  [focus] 2
+INFO 29/11/2023 20:03:23  [blur] 2
+INFO 29/11/2023 20:03:23  [win] blur
+INFO 29/11/2023 20:03:29  [focus] 2
+INFO 29/11/2023 20:03:33  [blur] 2
+INFO 29/11/2023 20:03:33  [win] blur
+INFO 29/11/2023 20:07:16  [focus] 2
+INFO 29/11/2023 20:07:17  [blur] 2
+INFO 29/11/2023 20:07:17  [win] blur
+INFO 29/11/2023 20:27:23  [focus] 2
+INFO 29/11/2023 20:27:24  [blur] 2
+INFO 29/11/2023 20:27:24  [win] blur
+INFO 29/11/2023 20:48:14  [focus] 2
+INFO 29/11/2023 20:48:18  synced recovery
+INFO 29/11/2023 20:48:18  synced recovery
+INFO 29/11/2023 20:48:19  synced recovery
+INFO 29/11/2023 20:48:19  [blur] 2
+INFO 29/11/2023 20:48:19  [win] blur
+INFO 29/11/2023 20:48:19  [focus] 1
+INFO 29/11/2023 20:48:19  synced recovery
+INFO 29/11/2023 20:48:19  synced recovery
+INFO 29/11/2023 20:48:20  synced recovery
+INFO 29/11/2023 20:48:25  synced recovery
+INFO 29/11/2023 20:48:30  synced recovery
+INFO 29/11/2023 20:48:33  synced recovery
+INFO 29/11/2023 20:48:34  synced recovery
+INFO 29/11/2023 20:48:38  synced recovery
+INFO 29/11/2023 20:48:44  synced recovery
+INFO 29/11/2023 20:48:51  [blur] 1
+INFO 29/11/2023 20:48:51  [win] blur
+INFO 29/11/2023 20:48:51  [focus] 2
+INFO 29/11/2023 20:48:53  synced recovery
+INFO 29/11/2023 20:48:57  [focus] 1
+INFO 29/11/2023 20:48:58  File.option.noHintForOpenLink=true;
+INFO 29/11/2023 20:49:05  synced recovery
+INFO 29/11/2023 20:49:06  synced recovery
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:25  [focus] 1
+INFO 29/11/2023 20:57:25  [blur] 1
+INFO 29/11/2023 20:57:25  [win] blur
+INFO 29/11/2023 20:57:29  [focus] 1
+INFO 29/11/2023 20:57:29  [blur] 1
+INFO 29/11/2023 20:57:29  [win] blur
+INFO 29/11/2023 20:57:29  [focus] 1
+INFO 29/11/2023 20:57:34  synced recovery
+INFO 29/11/2023 20:57:34  synced recovery
+INFO 29/11/2023 20:57:34  synced recovery
+INFO 29/11/2023 20:57:35  synced recovery
+INFO 29/11/2023 20:57:35  ----------------before-quit-----------------
+INFO 29/11/2023 20:57:35  ------------------will-quit------------------
+INFO 29/11/2023 20:57:35  -----------------quit------------------
+INFO 29/11/2023 20:57:35  closeLogging
+INFO 29/11/2023 20:57:38  launch with argv [/usr/share/typora/Typora]
+INFO 29/11/2023 20:57:39  start LM in devVersion=true
+INFO 29/11/2023 20:57:39  [Raven] instanceKey = 693c81b4-36c7-421b-88d5-1cb122519e93
+INFO 29/11/2023 20:57:39  ls put SLicense
+INFO 29/11/2023 20:57:39  [validateTrail] installDate is 11/29/2023, trail remains: 15 days
+INFO 29/11/2023 20:57:39  ------------------start------------------
+INFO 29/11/2023 20:57:39  typora version: 0.11.18
+INFO 29/11/2023 20:57:39  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 29/11/2023 20:57:39  [focus] 1
+INFO 29/11/2023 20:57:39  synced recovery
+INFO 29/11/2023 20:57:40  handle document.loadInitData
+INFO 29/11/2023 20:57:40  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 20:57:40  synced recovery
+INFO 29/11/2023 20:57:40  [RenderProcess 1][Log] onBecomeActive
+INFO 29/11/2023 20:57:40  [RenderProcess 1][Log] File.activeWindow = true
+INFO 29/11/2023 20:57:44  [blur] 1
+INFO 29/11/2023 20:57:44  [win] blur
+INFO 29/11/2023 20:57:52  [focus] 1
+INFO 29/11/2023 20:57:52  addRecentDocument
+INFO 29/11/2023 20:57:52  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 20:57:52  [RenderProcess 1][Log] File.reloadContent, {"skipUndo":true}
+INFO 29/11/2023 20:57:52  [RenderProcess 1][Log] reset NodeMap
+INFO 29/11/2023 20:57:52  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 29/11/2023 20:57:53  synced recovery
+INFO 29/11/2023 20:58:07  updateTheme
+INFO 29/11/2023 20:58:34  updateTheme
+INFO 29/11/2023 20:58:49  updateTheme
+INFO 29/11/2023 20:59:29  updateTheme
+INFO 29/11/2023 20:59:58  updateTheme
+INFO 29/11/2023 21:00:16  updateTheme
+INFO 29/11/2023 21:00:51  updateTheme
+INFO 29/11/2023 21:01:13  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 29/11/2023 21:01:26  File.option.useCustomFontSize=true
+INFO 29/11/2023 21:01:26  document.body.parentElement.style.fontSize = '14px'
+INFO 29/11/2023 21:01:27  File.option.useCustomFontSize=false
+INFO 29/11/2023 21:01:27  document.body.parentElement.style.fontSize = ''
+INFO 29/11/2023 21:01:30  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 29/11/2023 21:01:31  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 29/11/2023 21:01:33  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 29/11/2023 21:01:39  File.setCanCollapsePinnedOutline(true);
+INFO 29/11/2023 21:01:40  File.setCanCollapsePinnedOutline(false);
+INFO 29/11/2023 21:01:49  File.setIndentSize(3);
+INFO 29/11/2023 21:01:51  File.setIndentSize(4);
+INFO 29/11/2023 21:01:54  File.setIndentSize(2);
+INFO 29/11/2023 21:01:55  File.option.prettyIndent = true;
+INFO 29/11/2023 21:01:56  File.option.prettyIndent = false;
+INFO 29/11/2023 21:01:57  File.option.prettyIndent = true;
+INFO 29/11/2023 21:02:59  [blur] 1
+INFO 29/11/2023 21:02:59  [win] blur
+INFO 29/11/2023 21:03:12  [focus] 1
+INFO 29/11/2023 21:05:30  [blur] 1
+INFO 29/11/2023 21:05:30  [win] blur
+INFO 29/11/2023 21:05:30  [focus] 1
+INFO 29/11/2023 21:07:32  window.File && (function(){ClientCommand.zoomIn()})();
+INFO 29/11/2023 21:07:34  window.File && (function(){ClientCommand.zoomOut()})();
+INFO 29/11/2023 21:07:35  window.File && (function(){ClientCommand.zoomOut()})();
+INFO 29/11/2023 21:07:47  window.File && (function(){ClientCommand.resetZoom()})();
+INFO 29/11/2023 21:08:02  window.File && (function() {		File.option.smartDash = true;	})();
+INFO 29/11/2023 21:09:24  synced recovery
+INFO 29/11/2023 21:09:24  synced recovery
+INFO 29/11/2023 21:09:28  window.File && (function(){ClientCommand.resetZoom()})();
+INFO 29/11/2023 21:09:31  window.File && (function(){ClientCommand.zoomIn()})();
+INFO 29/11/2023 21:09:47  synced recovery
+INFO 29/11/2023 21:09:47  synced recovery
+INFO 29/11/2023 21:09:56  synced recovery
+INFO 29/11/2023 21:09:56  synced recovery
+INFO 29/11/2023 21:09:57  synced recovery
+INFO 29/11/2023 21:09:57  synced recovery
+INFO 29/11/2023 21:09:58  synced recovery
+INFO 29/11/2023 21:09:58  synced recovery
+INFO 29/11/2023 21:09:58  synced recovery
+INFO 29/11/2023 21:09:58  synced recovery
+INFO 29/11/2023 21:10:00  synced recovery
+INFO 29/11/2023 21:10:00  synced recovery
+INFO 29/11/2023 21:10:09  synced recovery
+INFO 29/11/2023 21:10:09  synced recovery
+INFO 29/11/2023 21:10:12  synced recovery
+INFO 29/11/2023 21:10:12  synced recovery
+INFO 29/11/2023 21:10:19  synced recovery
+INFO 29/11/2023 21:10:19  synced recovery
+INFO 29/11/2023 21:10:23  synced recovery
+INFO 29/11/2023 21:10:23  synced recovery
+INFO 29/11/2023 21:11:02  updateTheme
+INFO 29/11/2023 21:11:19  window.File && (function(){ClientCommand.zoomOut()})();
+INFO 29/11/2023 21:11:37  updateTheme
+INFO 29/11/2023 21:11:41  [blur] 1
+INFO 29/11/2023 21:11:41  [win] blur
+INFO 29/11/2023 21:13:49  [focus] 1
+INFO 29/11/2023 21:13:51  synced recovery
+INFO 29/11/2023 21:13:55  launch with argv [/usr/share/typora/Typora]
+INFO 29/11/2023 21:13:55  start LM in devVersion=true
+INFO 29/11/2023 21:13:55  [Raven] instanceKey = 9801763a-f173-4f9d-a65e-ea8cfd25e38c
+INFO 29/11/2023 21:13:55  ls put SLicense
+INFO 29/11/2023 21:13:55  [validateTrail] installDate is 11/29/2023, trail remains: 15 days
+INFO 29/11/2023 21:13:55  ------------------start------------------
+INFO 29/11/2023 21:13:55  typora version: 0.11.18
+INFO 29/11/2023 21:13:55  updateTheme
+INFO 29/11/2023 21:13:55  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 29/11/2023 21:13:55  [focus] 1
+INFO 29/11/2023 21:13:55  synced recovery
+INFO 29/11/2023 21:13:56  handle document.loadInitData
+INFO 29/11/2023 21:13:56  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 21:13:56  synced recovery
+INFO 29/11/2023 21:13:56  [RenderProcess 1][Log] onBecomeActive
+INFO 29/11/2023 21:13:56  [RenderProcess 1][Log] File.activeWindow = true
+INFO 29/11/2023 21:13:58  synced recovery
+INFO 29/11/2023 21:13:58  synced recovery
+INFO 29/11/2023 21:13:58  synced recovery
+INFO 29/11/2023 21:13:58  synced recovery
+INFO 29/11/2023 21:13:58  synced recovery
+INFO 29/11/2023 21:13:58  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:13:59  synced recovery
+INFO 29/11/2023 21:14:00  synced recovery
+INFO 29/11/2023 21:14:00  synced recovery
+INFO 29/11/2023 21:14:07  addRecentDocument
+INFO 29/11/2023 21:14:07  [blur] 1
+INFO 29/11/2023 21:14:07  [win] blur
+INFO 29/11/2023 21:14:07  [focus] 2
+INFO 29/11/2023 21:14:07  synced recovery
+INFO 29/11/2023 21:14:08  handle document.loadInitData
+INFO 29/11/2023 21:14:08  [RenderProcess 2][Log] getContent
+INFO 29/11/2023 21:14:09  synced recovery
+INFO 29/11/2023 21:14:09  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:14:09  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:14:18  [blur] 2
+INFO 29/11/2023 21:14:18  [win] blur
+INFO 29/11/2023 21:14:58  [focus] 2
+INFO 29/11/2023 21:14:59  [focus] 1
+INFO 29/11/2023 21:14:59  [blur] 1
+INFO 29/11/2023 21:14:59  [win] blur
+INFO 29/11/2023 21:14:59  [focus] 1
+INFO 29/11/2023 21:15:08  synced recovery
+INFO 29/11/2023 21:15:19  launch with argv [/usr/share/typora/Typora]
+INFO 29/11/2023 21:15:19  start LM in devVersion=true
+INFO 29/11/2023 21:15:19  [Raven] instanceKey = 981dc7eb-678a-47fa-8cbc-8142aa72e0f0
+INFO 29/11/2023 21:15:19  ls put SLicense
+INFO 29/11/2023 21:15:19  [validateTrail] installDate is 11/29/2023, trail remains: 15 days
+INFO 29/11/2023 21:15:19  ------------------start------------------
+INFO 29/11/2023 21:15:19  typora version: 0.11.18
+INFO 29/11/2023 21:15:20  updateTheme
+INFO 29/11/2023 21:15:20  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 29/11/2023 21:15:20  [focus] 1
+INFO 29/11/2023 21:15:20  synced recovery
+INFO 29/11/2023 21:15:21  handle document.loadInitData
+INFO 29/11/2023 21:15:21  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 21:15:21  synced recovery
+INFO 29/11/2023 21:15:21  [RenderProcess 1][Log] onBecomeActive
+INFO 29/11/2023 21:15:21  [RenderProcess 1][Log] File.activeWindow = true
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:22  synced recovery
+INFO 29/11/2023 21:15:23  synced recovery
+INFO 29/11/2023 21:15:23  synced recovery
+INFO 29/11/2023 21:15:23  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:24  synced recovery
+INFO 29/11/2023 21:15:27  addRecentDocument
+INFO 29/11/2023 21:15:27  [blur] 1
+INFO 29/11/2023 21:15:27  [win] blur
+INFO 29/11/2023 21:15:27  [focus] 2
+INFO 29/11/2023 21:15:27  synced recovery
+INFO 29/11/2023 21:15:28  handle document.loadInitData
+INFO 29/11/2023 21:15:28  [RenderProcess 2][Log] getContent
+INFO 29/11/2023 21:15:29  synced recovery
+INFO 29/11/2023 21:15:29  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:15:29  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:15:39  [blur] 2
+INFO 29/11/2023 21:15:39  [win] blur
+INFO 29/11/2023 21:17:32  got argv [typora] from secondary instance
+INFO 29/11/2023 21:17:32  [focus] 3
+INFO 29/11/2023 21:17:32  synced recovery
+INFO 29/11/2023 21:17:32  secondary instance would exit
+INFO 29/11/2023 21:17:33  handle document.loadInitData
+INFO 29/11/2023 21:17:33  [RenderProcess 3][Log] getContent
+INFO 29/11/2023 21:17:33  synced recovery
+INFO 29/11/2023 21:17:34  [RenderProcess 3][Log] onBecomeActive
+INFO 29/11/2023 21:17:34  [RenderProcess 3][Log] File.activeWindow = true
+INFO 29/11/2023 21:17:42  switchDocument 3 [/home/favio/Documentos/PYTHON/TEMAS-PYTHON.md]
+INFO 29/11/2023 21:17:42  [RenderProcess 3][Log] getContent
+INFO 29/11/2023 21:17:42  synced recovery
+INFO 29/11/2023 21:17:42  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:17:42  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:17:42  [RenderProcess 3][Log] File.activeWindow = true
+INFO 29/11/2023 21:17:42  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 29/11/2023 21:17:42  [RenderProcess 3][Log] do restoreEditStateFromData true false
+INFO 29/11/2023 21:17:42  [RenderProcess 3][Log] reset NodeMap
+INFO 29/11/2023 21:17:42  [RenderProcess 3][Log] [UndoManager] restoreFromJson all: 0 at: -1
+INFO 29/11/2023 21:17:43  synced recovery
+INFO 29/11/2023 21:17:56  [blur] 3
+INFO 29/11/2023 21:17:56  [win] blur
+INFO 29/11/2023 21:17:56  [focus] 2
+INFO 29/11/2023 21:17:56  [RenderProcess 3][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:17:56  [RenderProcess 3][Log] File.activeWindow = false
+INFO 29/11/2023 21:17:56  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:17:56  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:17:56  [blur] 2
+INFO 29/11/2023 21:17:56  [win] blur
+INFO 29/11/2023 21:19:35  [focus] 3
+INFO 29/11/2023 21:19:35  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:19:35  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:19:35  [RenderProcess 3][Log] onBecomeActive
+INFO 29/11/2023 21:19:35  [RenderProcess 3][Log] File.activeWindow = true
+INFO 29/11/2023 21:19:35  [blur] 3
+INFO 29/11/2023 21:19:35  [win] blur
+INFO 29/11/2023 21:19:37  [focus] 3
+INFO 29/11/2023 21:19:46  got argv [typora] from secondary instance
+INFO 29/11/2023 21:19:46  [focus] 4
+INFO 29/11/2023 21:19:46  synced recovery
+INFO 29/11/2023 21:19:47  handle document.loadInitData
+INFO 29/11/2023 21:19:47  [RenderProcess 4][Log] getContent
+INFO 29/11/2023 21:19:47  synced recovery
+INFO 29/11/2023 21:19:48  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:19:48  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:19:54  switchDocument 4 [/home/favio/Documentos/PYTHON/TEMAS-PYTHON.md]
+INFO 29/11/2023 21:19:54  [RenderProcess 4][Log] getContent
+INFO 29/11/2023 21:19:54  synced recovery
+INFO 29/11/2023 21:19:54  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:19:54  [RenderProcess 4][Log] onSwitchDocumentTarget
+INFO 29/11/2023 21:19:54  [RenderProcess 4][Log] do restoreEditStateFromData true false
+INFO 29/11/2023 21:19:54  [RenderProcess 4][Log] reset NodeMap
+INFO 29/11/2023 21:19:54  [RenderProcess 4][Log] [UndoManager] restoreFromJson all: 0 at: -1
+INFO 29/11/2023 21:19:55  synced recovery
+INFO 29/11/2023 21:20:12  [blur] 4
+INFO 29/11/2023 21:20:12  [win] blur
+INFO 29/11/2023 21:20:12  [focus] 2
+INFO 29/11/2023 21:20:12  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:12  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:12  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:12  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:13  [blur] 2
+INFO 29/11/2023 21:20:13  [win] blur
+INFO 29/11/2023 21:20:13  [focus] 2
+INFO 29/11/2023 21:20:15  [blur] 2
+INFO 29/11/2023 21:20:15  [win] blur
+INFO 29/11/2023 21:20:15  [focus] 2
+INFO 29/11/2023 21:20:16  [blur] 2
+INFO 29/11/2023 21:20:16  [win] blur
+INFO 29/11/2023 21:20:16  [focus] 4
+INFO 29/11/2023 21:20:16  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:16  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:16  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:20:16  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:16  [blur] 4
+INFO 29/11/2023 21:20:16  [win] blur
+INFO 29/11/2023 21:20:16  [focus] 2
+INFO 29/11/2023 21:20:16  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:16  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:16  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:16  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:19  [blur] 2
+INFO 29/11/2023 21:20:19  [win] blur
+INFO 29/11/2023 21:20:20  [focus] 2
+INFO 29/11/2023 21:20:20  [blur] 2
+INFO 29/11/2023 21:20:20  [win] blur
+INFO 29/11/2023 21:20:20  [focus] 4
+INFO 29/11/2023 21:20:20  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:20  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:20  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:20:20  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:25  [blur] 4
+INFO 29/11/2023 21:20:25  [win] blur
+INFO 29/11/2023 21:20:25  [focus] 2
+INFO 29/11/2023 21:20:25  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:25  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:25  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:25  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:26  [blur] 2
+INFO 29/11/2023 21:20:26  [win] blur
+INFO 29/11/2023 21:20:26  [focus] 4
+INFO 29/11/2023 21:20:26  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:26  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:26  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:20:26  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:27  [blur] 4
+INFO 29/11/2023 21:20:27  [win] blur
+INFO 29/11/2023 21:20:27  [focus] 2
+INFO 29/11/2023 21:20:27  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:27  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:27  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:27  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:27  [blur] 2
+INFO 29/11/2023 21:20:27  [win] blur
+INFO 29/11/2023 21:20:27  [focus] 4
+INFO 29/11/2023 21:20:27  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:27  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:27  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:20:27  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:28  [blur] 4
+INFO 29/11/2023 21:20:28  [win] blur
+INFO 29/11/2023 21:20:28  [focus] 2
+INFO 29/11/2023 21:20:28  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:28  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:28  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:28  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:29  [blur] 2
+INFO 29/11/2023 21:20:29  [win] blur
+INFO 29/11/2023 21:20:29  [focus] 4
+INFO 29/11/2023 21:20:29  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:29  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:29  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:20:29  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:30  [blur] 4
+INFO 29/11/2023 21:20:30  [win] blur
+INFO 29/11/2023 21:20:30  [focus] 2
+INFO 29/11/2023 21:20:30  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:30  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:30  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:30  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:30  [blur] 2
+INFO 29/11/2023 21:20:30  [win] blur
+INFO 29/11/2023 21:20:30  [focus] 4
+INFO 29/11/2023 21:20:30  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:30  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:30  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:20:30  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:31  [blur] 4
+INFO 29/11/2023 21:20:31  [win] blur
+INFO 29/11/2023 21:20:31  [focus] 2
+INFO 29/11/2023 21:20:31  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:20:31  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:20:31  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:20:31  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:20:33  [blur] 2
+INFO 29/11/2023 21:20:33  [win] blur
+INFO 29/11/2023 21:21:49  [focus] 2
+INFO 29/11/2023 21:22:19  updateTheme
+INFO 29/11/2023 21:22:27  updateTheme
+INFO 29/11/2023 21:22:28  updateTheme
+INFO 29/11/2023 21:22:28  updateTheme
+INFO 29/11/2023 21:22:53  updateTheme
+INFO 29/11/2023 21:23:17  updateTheme
+INFO 29/11/2023 21:24:05  [blur] 2
+INFO 29/11/2023 21:24:05  [win] blur
+INFO 29/11/2023 21:24:06  [focus] 2
+INFO 29/11/2023 21:24:06  [blur] 2
+INFO 29/11/2023 21:24:06  [win] blur
+INFO 29/11/2023 21:24:06  [focus] 4
+INFO 29/11/2023 21:24:06  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:06  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:06  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:24:06  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:07  [blur] 4
+INFO 29/11/2023 21:24:07  [win] blur
+INFO 29/11/2023 21:24:07  [focus] 2
+INFO 29/11/2023 21:24:07  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:07  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:07  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:24:07  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:08  [blur] 2
+INFO 29/11/2023 21:24:08  [win] blur
+INFO 29/11/2023 21:24:08  [focus] 4
+INFO 29/11/2023 21:24:08  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:08  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:08  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:24:08  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:09  [blur] 4
+INFO 29/11/2023 21:24:09  [win] blur
+INFO 29/11/2023 21:24:09  [focus] 2
+INFO 29/11/2023 21:24:09  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:09  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:09  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:24:09  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:10  [blur] 2
+INFO 29/11/2023 21:24:10  [win] blur
+INFO 29/11/2023 21:24:10  [focus] 4
+INFO 29/11/2023 21:24:10  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:10  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:10  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:24:10  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:12  [blur] 4
+INFO 29/11/2023 21:24:12  [win] blur
+INFO 29/11/2023 21:24:12  [focus] 2
+INFO 29/11/2023 21:24:12  [RenderProcess 4][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:12  [RenderProcess 4][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:12  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:24:12  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:14  [blur] 2
+INFO 29/11/2023 21:24:14  [win] blur
+INFO 29/11/2023 21:24:14  [focus] 4
+INFO 29/11/2023 21:24:14  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 29/11/2023 21:24:14  [RenderProcess 2][Log] File.activeWindow = false
+INFO 29/11/2023 21:24:14  [RenderProcess 4][Log] onBecomeActive
+INFO 29/11/2023 21:24:14  [RenderProcess 4][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:16  [focus] 2
+INFO 29/11/2023 21:24:16  [RenderProcess 2][Log] onBecomeActive
+INFO 29/11/2023 21:24:16  [RenderProcess 2][Log] File.activeWindow = true
+INFO 29/11/2023 21:24:39  [focus] 1
+INFO 29/11/2023 21:24:39  [blur] 1
+INFO 29/11/2023 21:24:39  [win] blur
+INFO 29/11/2023 21:24:39  [focus] 1
+INFO 29/11/2023 21:24:42  synced recovery
+INFO 29/11/2023 21:24:42  ----------------before-quit-----------------
+INFO 29/11/2023 21:24:42  ------------------will-quit------------------
+INFO 29/11/2023 21:24:42  -----------------quit------------------
+INFO 29/11/2023 21:24:42  closeLogging
+INFO 29/11/2023 22:37:35  launch with argv [/usr/share/typora/Typora, /home/favio/Descargas/NORMA CONTABLE-No3/NORMA CONTABLE-No3.md]
+INFO 29/11/2023 22:37:35  start LM in devVersion=true
+INFO 29/11/2023 22:37:35  [Raven] instanceKey = 68acfbef-7b31-447a-93b4-d5b02ca68669
+INFO 29/11/2023 22:37:35  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 29/11/2023 22:37:35  ls put SLicense
+INFO 29/11/2023 22:37:35  [validateTrail] installDate is 11/29/2023, trail remains: 15 days
+INFO 29/11/2023 22:37:35  ------------------start------------------
+INFO 29/11/2023 22:37:35  typora version: 0.11.18
+INFO 29/11/2023 22:37:35  addRecentDocument
+INFO 29/11/2023 22:37:35  [focus] 1
+INFO 29/11/2023 22:37:36  synced recovery
+INFO 29/11/2023 22:37:37  handle document.loadInitData
+INFO 29/11/2023 22:37:37  [RenderProcess 1][Log] getContent
+INFO 29/11/2023 22:37:39  synced recovery
+INFO 29/11/2023 22:37:39  [RenderProcess 1][Log] onBecomeActive
+INFO 29/11/2023 22:37:39  [RenderProcess 1][Log] File.activeWindow = true
+INFO 29/11/2023 22:37:50  synced recovery
+INFO 29/11/2023 22:37:50  synced recovery
+INFO 29/11/2023 22:37:50  synced recovery
+INFO 29/11/2023 22:37:50  synced recovery
+INFO 29/11/2023 22:37:51  synced recovery
+INFO 29/11/2023 22:37:51  synced recovery
+INFO 29/11/2023 22:38:09  synced recovery
+INFO 29/11/2023 22:38:09  synced recovery
+INFO 29/11/2023 22:38:09  synced recovery
+INFO 29/11/2023 22:38:09  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:10  synced recovery
+INFO 29/11/2023 22:38:11  synced recovery
+INFO 29/11/2023 22:38:11  synced recovery
+INFO 29/11/2023 22:38:11  synced recovery
+INFO 29/11/2023 22:38:11  synced recovery
+INFO 29/11/2023 22:38:12  synced recovery
+INFO 29/11/2023 22:38:12  synced recovery
+INFO 29/11/2023 22:38:13  synced recovery
+INFO 29/11/2023 22:38:13  synced recovery
+INFO 29/11/2023 22:38:15  [blur] 1
+INFO 29/11/2023 22:38:15  [win] blur
+INFO 29/11/2023 22:38:16  [focus] 1
+INFO 29/11/2023 22:38:19  [blur] 1
+INFO 29/11/2023 22:38:19  [win] blur
+INFO 29/11/2023 22:41:16  [focus] 1
+INFO 29/11/2023 22:41:18  synced recovery
+INFO 29/11/2023 22:41:18  synced recovery
+INFO 29/11/2023 22:41:20  synced recovery
+INFO 29/11/2023 22:41:21  [blur] 1
+INFO 29/11/2023 22:41:21  [win] blur
+INFO 29/11/2023 22:41:25  [focus] 1
+INFO 29/11/2023 22:41:26  synced recovery
+INFO 29/11/2023 22:41:26  synced recovery
+INFO 29/11/2023 22:41:28  synced recovery
+INFO 29/11/2023 22:41:28  synced recovery
+INFO 29/11/2023 22:41:28  [blur] 1
+INFO 29/11/2023 22:41:28  [win] blur
+INFO 29/11/2023 22:43:09  [focus] 1
+INFO 29/11/2023 22:43:11  synced recovery
+INFO 29/11/2023 22:43:11  synced recovery
+INFO 29/11/2023 22:43:16  synced recovery
+INFO 29/11/2023 22:43:16  synced recovery
+INFO 29/11/2023 22:43:16  [blur] 1
+INFO 29/11/2023 22:43:16  [win] blur
+INFO 29/11/2023 22:43:24  [focus] 1
+INFO 29/11/2023 22:43:26  [blur] 1
+INFO 29/11/2023 22:43:26  [win] blur
+INFO 29/11/2023 22:43:46  [focus] 1
+INFO 29/11/2023 22:43:47  synced recovery
+INFO 29/11/2023 22:43:47  synced recovery
+INFO 29/11/2023 22:43:51  synced recovery
+INFO 29/11/2023 22:44:07  synced recovery
+INFO 29/11/2023 22:44:10  synced recovery
+INFO 29/11/2023 22:44:10  synced recovery
+INFO 29/11/2023 22:44:12  synced recovery
+INFO 29/11/2023 22:44:12  synced recovery
+INFO 29/11/2023 22:44:20  synced recovery
+INFO 29/11/2023 22:44:48  synced recovery
+INFO 29/11/2023 22:44:50  synced recovery
+INFO 29/11/2023 22:44:50  synced recovery
+INFO 29/11/2023 22:44:53  synced recovery
+INFO 29/11/2023 22:44:53  synced recovery
+INFO 29/11/2023 22:44:56  synced recovery
+INFO 29/11/2023 22:44:56  synced recovery
+INFO 29/11/2023 22:45:00  synced recovery
+INFO 29/11/2023 22:45:00  synced recovery
+INFO 29/11/2023 22:45:01  synced recovery
+INFO 29/11/2023 22:45:02  synced recovery
+INFO 29/11/2023 22:45:02  synced recovery
+INFO 29/11/2023 22:45:03  synced recovery
+INFO 29/11/2023 22:45:03  synced recovery
+INFO 29/11/2023 22:45:06  synced recovery
+INFO 29/11/2023 22:45:06  synced recovery
+INFO 29/11/2023 22:45:08  synced recovery
+INFO 29/11/2023 22:45:08  synced recovery
+INFO 29/11/2023 22:45:10  synced recovery
+INFO 29/11/2023 22:45:10  synced recovery
+INFO 29/11/2023 22:45:11  synced recovery
+INFO 29/11/2023 22:45:11  synced recovery
+INFO 29/11/2023 22:45:14  synced recovery
+INFO 29/11/2023 22:45:14  synced recovery
+INFO 29/11/2023 22:45:15  synced recovery
+INFO 29/11/2023 22:45:15  synced recovery
+INFO 29/11/2023 22:45:17  synced recovery
+INFO 29/11/2023 22:45:17  synced recovery
+INFO 29/11/2023 22:45:22  synced recovery
+INFO 29/11/2023 22:45:23  synced recovery
+INFO 29/11/2023 22:45:25  synced recovery
+INFO 29/11/2023 22:45:25  synced recovery
+INFO 29/11/2023 22:45:26  synced recovery
+INFO 29/11/2023 22:45:26  synced recovery
+INFO 29/11/2023 22:45:27  synced recovery
+INFO 29/11/2023 22:45:29  synced recovery
+INFO 29/11/2023 22:45:29  synced recovery
+INFO 29/11/2023 22:45:37  [blur] 1
+INFO 29/11/2023 22:45:37  [win] blur
+INFO 29/11/2023 22:45:41  [focus] 1
+INFO 29/11/2023 22:45:41  load file [/tmp/1701312341904-0.7127899338266634.html] for PDF export
+INFO 29/11/2023 22:45:42  [blur] 1
+INFO 29/11/2023 22:45:42  [win] blur
+INFO 29/11/2023 22:45:43  generate print window with id 2
+INFO 29/11/2023 22:45:44  get PDF data
+INFO 29/11/2023 22:45:44  get background color
+INFO 29/11/2023 22:45:52  [focus] 1
+INFO 29/11/2023 22:45:52  [RenderProcess 1][Log] export PDF to /home/favio/Documentos/typora/NORMAS-CONTABLES.pdf
+INFO 29/11/2023 22:45:56  [blur] 1
+INFO 29/11/2023 22:45:56  [win] blur
+INFO 29/11/2023 22:46:45  [focus] 1
+INFO 29/11/2023 22:46:51  synced recovery
+INFO 29/11/2023 22:46:51  synced recovery
+INFO 29/11/2023 22:46:52  synced recovery
+INFO 29/11/2023 22:46:52  ----------------before-quit-----------------
+INFO 29/11/2023 22:46:52  ------------------will-quit------------------
+INFO 29/11/2023 22:46:52  -----------------quit------------------
+INFO 29/11/2023 22:46:52  closeLogging
+INFO 1/12/2023 02:05:31  launch with argv [/usr/share/typora/Typora]
+INFO 1/12/2023 02:05:32  start LM in devVersion=true
+INFO 1/12/2023 02:05:32  [Raven] instanceKey = ce9be099-a8da-4243-813c-04dd735deb38
+INFO 1/12/2023 02:05:32  [Raven] userId = 623f8430-9e9f-47a5-a657-a13f728baa04
+INFO 1/12/2023 02:05:32  ls put SLicense
+INFO 1/12/2023 02:05:32  [validateTrail] installDate is 12/1/2023, trail remains: 15 days
+INFO 1/12/2023 02:05:32  ------------------start------------------
+INFO 1/12/2023 02:05:32  typora version: 0.11.18
+INFO 1/12/2023 02:05:32  updateTheme
+INFO 1/12/2023 02:05:33  [focus] 1
+INFO 1/12/2023 02:05:33  synced recovery
+INFO 1/12/2023 02:05:35  handle document.loadInitData
+INFO 1/12/2023 02:05:35  [RenderProcess 1][Log] getContent
+INFO 1/12/2023 02:05:35  synced recovery
+INFO 1/12/2023 02:05:35  [RenderProcess 1][Log] onBecomeActive
+INFO 1/12/2023 02:05:35  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/12/2023 02:05:36  synced recovery
+INFO 1/12/2023 02:05:41  synced recovery
+INFO 1/12/2023 02:05:42  synced recovery
+INFO 1/12/2023 02:05:44  [blur] 1
+INFO 1/12/2023 02:05:44  [win] blur
+INFO 1/12/2023 02:05:44  [focus] 1
+INFO 1/12/2023 02:05:45  [blur] 1
+INFO 1/12/2023 02:05:45  [win] blur
+INFO 1/12/2023 02:05:51  [focus] 1
+INFO 1/12/2023 02:05:52  synced recovery
+INFO 1/12/2023 02:05:56  synced recovery
+INFO 1/12/2023 02:05:57  synced recovery
+INFO 1/12/2023 02:05:57  synced recovery
+INFO 1/12/2023 02:05:58  synced recovery
+INFO 1/12/2023 02:05:58  synced recovery
+INFO 1/12/2023 02:05:58  synced recovery
+INFO 1/12/2023 02:05:59  synced recovery
+INFO 1/12/2023 02:06:10  synced recovery
+INFO 1/12/2023 02:06:16  [blur] 1
+INFO 1/12/2023 02:06:16  [win] blur
+INFO 1/12/2023 02:06:37  [focus] 1
+INFO 1/12/2023 02:06:41  synced recovery
+INFO 1/12/2023 02:06:42  synced recovery
+INFO 1/12/2023 02:06:45  synced recovery
+INFO 1/12/2023 02:06:53  synced recovery
+INFO 1/12/2023 02:06:57  synced recovery
+INFO 1/12/2023 02:06:57  synced recovery
+INFO 1/12/2023 02:06:58  synced recovery
+INFO 1/12/2023 02:07:01  synced recovery
+INFO 1/12/2023 02:07:02  synced recovery
+INFO 1/12/2023 02:07:03  synced recovery
+INFO 1/12/2023 02:07:03  synced recovery
+INFO 1/12/2023 02:07:06  synced recovery
+INFO 1/12/2023 02:07:07  synced recovery
+INFO 1/12/2023 02:07:07  synced recovery
+INFO 1/12/2023 02:07:07  synced recovery
+INFO 1/12/2023 02:07:07  synced recovery
+INFO 1/12/2023 02:07:07  synced recovery
+INFO 1/12/2023 02:07:07  synced recovery
+INFO 1/12/2023 02:07:08  synced recovery
+INFO 1/12/2023 02:07:08  synced recovery
+INFO 1/12/2023 02:07:08  synced recovery
+INFO 1/12/2023 02:07:16  synced recovery
+INFO 1/12/2023 02:07:17  synced recovery
+INFO 1/12/2023 02:07:25  synced recovery
+INFO 1/12/2023 02:07:27  synced recovery
+INFO 1/12/2023 02:07:31  synced recovery
+INFO 1/12/2023 02:07:34  synced recovery
+INFO 1/12/2023 02:07:35  synced recovery
+INFO 1/12/2023 02:07:36  synced recovery
+INFO 1/12/2023 02:07:38  synced recovery
+INFO 1/12/2023 02:07:39  synced recovery
+INFO 1/12/2023 02:07:40  synced recovery
+INFO 1/12/2023 02:07:45  synced recovery
+INFO 1/12/2023 02:07:45  synced recovery
+INFO 1/12/2023 02:07:46  synced recovery
+INFO 1/12/2023 02:07:46  synced recovery
+INFO 1/12/2023 02:07:46  synced recovery
+INFO 1/12/2023 02:07:46  synced recovery
+INFO 1/12/2023 02:07:46  synced recovery
+INFO 1/12/2023 02:07:46  synced recovery
+INFO 1/12/2023 02:07:47  synced recovery
+INFO 1/12/2023 02:07:47  synced recovery
+INFO 1/12/2023 02:07:54  synced recovery
+INFO 1/12/2023 02:07:54  synced recovery
+INFO 1/12/2023 02:07:57  synced recovery
+INFO 1/12/2023 02:07:59  synced recovery
+INFO 1/12/2023 02:07:59  synced recovery
+INFO 1/12/2023 02:07:59  synced recovery
+INFO 1/12/2023 02:08:00  synced recovery
+INFO 1/12/2023 02:08:01  synced recovery
+INFO 1/12/2023 02:08:01  synced recovery
+INFO 1/12/2023 02:08:02  synced recovery
+INFO 1/12/2023 02:08:06  [blur] 1
+INFO 1/12/2023 02:08:06  [win] blur
+INFO 1/12/2023 02:09:41  [focus] 1
+INFO 1/12/2023 02:09:51  [blur] 1
+INFO 1/12/2023 02:09:51  [win] blur
+INFO 1/12/2023 02:10:55  [focus] 1
+INFO 1/12/2023 02:11:01  synced recovery
+INFO 1/12/2023 02:11:02  synced recovery
+INFO 1/12/2023 02:11:03  synced recovery
+INFO 1/12/2023 02:11:27  [blur] 1
+INFO 1/12/2023 02:11:27  [win] blur
+INFO 1/12/2023 02:11:29  [focus] 1
+INFO 1/12/2023 02:11:29  [blur] 1
+INFO 1/12/2023 02:11:29  [win] blur
+INFO 1/12/2023 02:12:05  [focus] 1
+INFO 1/12/2023 02:12:10  [blur] 1
+INFO 1/12/2023 02:12:10  [win] blur
+INFO 1/12/2023 02:12:21  [focus] 1
+INFO 1/12/2023 02:12:26  [blur] 1
+INFO 1/12/2023 02:12:26  [win] blur
+INFO 1/12/2023 02:12:28  [focus] 1
+INFO 1/12/2023 02:12:34  [blur] 1
+INFO 1/12/2023 02:12:34  [win] blur
+INFO 1/12/2023 02:12:42  [focus] 1
+INFO 1/12/2023 02:13:11  [blur] 1
+INFO 1/12/2023 02:13:11  [win] blur
+INFO 1/12/2023 02:13:58  [focus] 1
+INFO 1/12/2023 02:14:10  synced recovery
+INFO 1/12/2023 02:14:13  synced recovery
+INFO 1/12/2023 02:14:33  [blur] 1
+INFO 1/12/2023 02:14:33  [win] blur
+INFO 1/12/2023 02:14:55  [focus] 1
+INFO 1/12/2023 02:14:59  synced recovery
+INFO 1/12/2023 02:14:59  synced recovery
+INFO 1/12/2023 02:15:12  synced recovery
+INFO 1/12/2023 02:15:23  synced recovery
+INFO 1/12/2023 02:15:32  synced recovery
+INFO 1/12/2023 02:15:35  synced recovery
+INFO 1/12/2023 02:15:36  synced recovery
+INFO 1/12/2023 02:15:37  [blur] 1
+INFO 1/12/2023 02:15:37  [win] blur
+INFO 1/12/2023 02:16:24  [focus] 1
+INFO 1/12/2023 02:16:29  synced recovery
+INFO 1/12/2023 02:16:31  [blur] 1
+INFO 1/12/2023 02:16:31  [win] blur
+INFO 1/12/2023 02:16:38  [focus] 1
+INFO 1/12/2023 02:16:38  synced recovery
+INFO 1/12/2023 02:16:51  synced recovery
+INFO 1/12/2023 02:16:52  synced recovery
+INFO 1/12/2023 02:17:02  [blur] 1
+INFO 1/12/2023 02:17:02  [win] blur
+INFO 1/12/2023 02:17:11  [focus] 1
+INFO 1/12/2023 02:17:23  [blur] 1
+INFO 1/12/2023 02:17:23  [win] blur
+INFO 1/12/2023 02:17:43  [focus] 1
+INFO 1/12/2023 02:17:43  [blur] 1
+INFO 1/12/2023 02:17:43  [win] blur
+INFO 1/12/2023 02:17:46  [focus] 1
+INFO 1/12/2023 02:17:48  [blur] 1
+INFO 1/12/2023 02:17:48  [win] blur
+INFO 1/12/2023 02:18:00  [focus] 1
+INFO 1/12/2023 02:18:03  [blur] 1
+INFO 1/12/2023 02:18:03  [win] blur
+INFO 1/12/2023 02:18:14  [focus] 1
+INFO 1/12/2023 02:18:35  [blur] 1
+INFO 1/12/2023 02:18:35  [win] blur
+INFO 1/12/2023 02:18:47  [focus] 1
+INFO 1/12/2023 02:18:53  [blur] 1
+INFO 1/12/2023 02:18:53  [win] blur
+INFO 1/12/2023 02:18:59  [focus] 1
+INFO 1/12/2023 02:19:03  [blur] 1
+INFO 1/12/2023 02:19:03  [win] blur
+INFO 1/12/2023 02:19:12  [focus] 1
+INFO 1/12/2023 02:20:03  [blur] 1
+INFO 1/12/2023 02:20:03  [win] blur
+INFO 1/12/2023 02:20:07  [focus] 1
+INFO 1/12/2023 02:20:23  [blur] 1
+INFO 1/12/2023 02:20:23  [win] blur
+INFO 1/12/2023 02:20:35  [focus] 1
+INFO 1/12/2023 02:20:39  [blur] 1
+INFO 1/12/2023 02:20:39  [win] blur
+INFO 1/12/2023 02:20:45  [focus] 1
+INFO 1/12/2023 02:20:46  [blur] 1
+INFO 1/12/2023 02:20:46  [win] blur
+INFO 1/12/2023 02:20:54  [focus] 1
+INFO 1/12/2023 02:20:55  [blur] 1
+INFO 1/12/2023 02:20:55  [win] blur
+INFO 1/12/2023 02:22:37  [focus] 1
+INFO 1/12/2023 02:22:41  synced recovery
+INFO 1/12/2023 02:22:42  [blur] 1
+INFO 1/12/2023 02:22:42  [win] blur
+INFO 1/12/2023 02:22:44  [focus] 1
+INFO 1/12/2023 02:22:51  synced recovery
+INFO 1/12/2023 02:22:53  synced recovery
+INFO 1/12/2023 02:22:56  synced recovery
+INFO 1/12/2023 02:22:59  [blur] 1
+INFO 1/12/2023 02:22:59  [win] blur
+INFO 1/12/2023 02:23:03  [focus] 1
+INFO 1/12/2023 02:23:03  synced recovery
+INFO 1/12/2023 02:23:18  synced recovery
+INFO 1/12/2023 02:23:20  synced recovery
+INFO 1/12/2023 02:23:21  synced recovery
+INFO 1/12/2023 02:23:26  synced recovery
+INFO 1/12/2023 02:23:27  [blur] 1
+INFO 1/12/2023 02:23:27  [win] blur
+INFO 1/12/2023 02:23:36  [focus] 1
+INFO 1/12/2023 02:23:36  synced recovery
+INFO 1/12/2023 02:23:40  [blur] 1
+INFO 1/12/2023 02:23:40  [win] blur
+INFO 1/12/2023 02:23:44  [focus] 1
+INFO 1/12/2023 02:23:48  synced recovery
+INFO 1/12/2023 02:23:50  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:56  synced recovery
+INFO 1/12/2023 02:23:57  synced recovery
+INFO 1/12/2023 02:23:57  synced recovery
+INFO 1/12/2023 02:23:57  synced recovery
+INFO 1/12/2023 02:23:58  synced recovery
+INFO 1/12/2023 02:23:58  synced recovery
+INFO 1/12/2023 02:23:58  synced recovery
+INFO 1/12/2023 02:23:58  synced recovery
+INFO 1/12/2023 02:23:59  synced recovery
+INFO 1/12/2023 02:23:59  synced recovery
+INFO 1/12/2023 02:23:59  synced recovery
+INFO 1/12/2023 02:23:59  synced recovery
+INFO 1/12/2023 02:24:19  [blur] 1
+INFO 1/12/2023 02:24:19  [win] blur
+INFO 1/12/2023 02:24:20  [focus] 1
+INFO 1/12/2023 02:24:28  [blur] 1
+INFO 1/12/2023 02:24:28  [win] blur
+INFO 1/12/2023 02:24:51  [focus] 1
+INFO 1/12/2023 02:24:57  [blur] 1
+INFO 1/12/2023 02:24:57  [win] blur
+INFO 1/12/2023 02:25:26  [focus] 1
+INFO 1/12/2023 02:25:30  synced recovery
+INFO 1/12/2023 02:25:32  synced recovery
+INFO 1/12/2023 02:25:34  synced recovery
+INFO 1/12/2023 02:25:36  synced recovery
+INFO 1/12/2023 02:25:38  synced recovery
+INFO 1/12/2023 02:25:38  [blur] 1
+INFO 1/12/2023 02:25:38  [win] blur
+INFO 1/12/2023 02:26:00  [focus] 1
+INFO 1/12/2023 02:26:06  synced recovery
+INFO 1/12/2023 02:26:07  [blur] 1
+INFO 1/12/2023 02:26:07  [win] blur
+INFO 1/12/2023 02:26:13  [focus] 1
+INFO 1/12/2023 02:26:13  synced recovery
+INFO 1/12/2023 02:26:16  [blur] 1
+INFO 1/12/2023 02:26:16  [win] blur
+INFO 1/12/2023 02:26:27  [focus] 1
+INFO 1/12/2023 02:26:30  synced recovery
+INFO 1/12/2023 02:26:31  synced recovery
+INFO 1/12/2023 02:26:32  synced recovery
+INFO 1/12/2023 02:26:37  synced recovery
+INFO 1/12/2023 02:26:38  synced recovery
+INFO 1/12/2023 02:26:41  synced recovery
+INFO 1/12/2023 02:26:42  [blur] 1
+INFO 1/12/2023 02:26:42  [win] blur
+INFO 1/12/2023 02:26:43  [focus] 1
+INFO 1/12/2023 02:26:47  synced recovery
+INFO 1/12/2023 02:26:49  synced recovery
+INFO 1/12/2023 02:26:49  [blur] 1
+INFO 1/12/2023 02:26:49  [win] blur
+INFO 1/12/2023 02:26:51  [focus] 1
+INFO 1/12/2023 02:26:56  [blur] 1
+INFO 1/12/2023 02:26:56  [win] blur
+INFO 1/12/2023 02:27:21  [focus] 1
+INFO 1/12/2023 02:27:24  [blur] 1
+INFO 1/12/2023 02:27:24  [win] blur
+INFO 1/12/2023 02:27:58  [focus] 1
+INFO 1/12/2023 02:28:05  synced recovery
+INFO 1/12/2023 02:28:08  [blur] 1
+INFO 1/12/2023 02:28:08  [win] blur
+INFO 1/12/2023 02:28:14  [focus] 1
+INFO 1/12/2023 02:28:14  synced recovery
+INFO 1/12/2023 02:28:17  [blur] 1
+INFO 1/12/2023 02:28:17  [win] blur
+INFO 1/12/2023 02:28:20  [focus] 1
+INFO 1/12/2023 02:28:23  synced recovery
+INFO 1/12/2023 02:28:24  synced recovery
+INFO 1/12/2023 02:28:25  synced recovery
+INFO 1/12/2023 02:28:34  synced recovery
+INFO 1/12/2023 02:28:39  synced recovery
+INFO 1/12/2023 02:28:42  synced recovery
+INFO 1/12/2023 02:28:44  synced recovery
+INFO 1/12/2023 02:28:45  synced recovery
+INFO 1/12/2023 02:28:47  synced recovery
+INFO 1/12/2023 02:28:50  synced recovery
+INFO 1/12/2023 02:28:53  synced recovery
+INFO 1/12/2023 02:28:55  synced recovery
+INFO 1/12/2023 02:28:58  synced recovery
+INFO 1/12/2023 02:29:00  synced recovery
+INFO 1/12/2023 02:29:02  synced recovery
+INFO 1/12/2023 02:29:04  synced recovery
+INFO 1/12/2023 02:29:05  synced recovery
+INFO 1/12/2023 02:29:07  synced recovery
+INFO 1/12/2023 02:29:18  synced recovery
+INFO 1/12/2023 02:29:21  synced recovery
+INFO 1/12/2023 02:29:31  [blur] 1
+INFO 1/12/2023 02:29:31  [win] blur
+INFO 1/12/2023 02:29:34  [focus] 1
+INFO 1/12/2023 02:29:34  load file [/tmp/1701412174194-0.48663298446145475.html] for PDF export
+INFO 1/12/2023 02:29:34  [blur] 1
+INFO 1/12/2023 02:29:34  [win] blur
+INFO 1/12/2023 02:29:35  generate print window with id 2
+INFO 1/12/2023 02:29:35  get PDF data
+INFO 1/12/2023 02:29:35  get background color
+INFO 1/12/2023 02:29:38  [focus] 1
+INFO 1/12/2023 02:29:38  [RenderProcess 1][Log] export PDF to /home/favio/Documentos/typora/TRABAJO FINAL MICROECONOMÍA MAÍZ.pdf
+INFO 1/12/2023 02:29:39  [blur] 1
+INFO 1/12/2023 02:29:39  [win] blur
+INFO 1/12/2023 02:31:06  [focus] 1
+INFO 1/12/2023 02:31:37  synced recovery
+INFO 1/12/2023 02:31:43  synced recovery
+INFO 1/12/2023 02:32:05  synced recovery
+INFO 1/12/2023 02:32:06  synced recovery
+INFO 1/12/2023 02:32:07  synced recovery
+INFO 1/12/2023 02:32:12  synced recovery
+INFO 1/12/2023 02:32:12  synced recovery
+INFO 1/12/2023 02:32:14  synced recovery
+INFO 1/12/2023 02:32:28  synced recovery
+INFO 1/12/2023 02:32:29  synced recovery
+INFO 1/12/2023 02:32:29  synced recovery
+INFO 1/12/2023 02:32:30  synced recovery
+INFO 1/12/2023 02:32:37  synced recovery
+INFO 1/12/2023 02:32:38  synced recovery
+INFO 1/12/2023 02:32:45  synced recovery
+INFO 1/12/2023 02:32:47  synced recovery
+INFO 1/12/2023 02:32:49  synced recovery
+INFO 1/12/2023 02:32:49  synced recovery
+INFO 1/12/2023 02:32:50  synced recovery
+INFO 1/12/2023 02:32:50  synced recovery
+INFO 1/12/2023 02:32:51  synced recovery
+INFO 1/12/2023 02:32:51  synced recovery
+INFO 1/12/2023 02:32:51  synced recovery
+INFO 1/12/2023 02:32:51  synced recovery
+INFO 1/12/2023 02:32:52  synced recovery
+INFO 1/12/2023 02:32:53  synced recovery
+INFO 1/12/2023 02:32:55  synced recovery
+INFO 1/12/2023 02:32:56  synced recovery
+INFO 1/12/2023 02:32:57  synced recovery
+INFO 1/12/2023 02:32:57  synced recovery
+INFO 1/12/2023 02:32:58  synced recovery
+INFO 1/12/2023 02:32:59  synced recovery
+INFO 1/12/2023 02:33:00  synced recovery
+INFO 1/12/2023 02:33:05  synced recovery
+INFO 1/12/2023 02:33:09  synced recovery
+INFO 1/12/2023 02:33:09  synced recovery
+INFO 1/12/2023 02:33:10  synced recovery
+INFO 1/12/2023 02:33:10  synced recovery
+INFO 1/12/2023 02:33:11  synced recovery
+INFO 1/12/2023 02:33:12  synced recovery
+INFO 1/12/2023 02:33:12  synced recovery
+INFO 1/12/2023 02:33:15  synced recovery
+INFO 1/12/2023 02:33:16  synced recovery
+INFO 1/12/2023 02:33:17  synced recovery
+INFO 1/12/2023 02:33:18  synced recovery
+INFO 1/12/2023 02:33:18  synced recovery
+INFO 1/12/2023 02:33:19  synced recovery
+INFO 1/12/2023 02:33:19  synced recovery
+INFO 1/12/2023 02:33:19  synced recovery
+INFO 1/12/2023 02:33:20  synced recovery
+INFO 1/12/2023 02:33:20  synced recovery
+INFO 1/12/2023 02:33:20  synced recovery
+INFO 1/12/2023 02:33:21  synced recovery
+INFO 1/12/2023 02:33:21  synced recovery
+INFO 1/12/2023 02:33:21  synced recovery
+INFO 1/12/2023 02:33:22  synced recovery
+INFO 1/12/2023 02:33:22  synced recovery
+INFO 1/12/2023 02:33:23  synced recovery
+INFO 1/12/2023 02:33:24  synced recovery
+INFO 1/12/2023 02:33:47  [blur] 1
+INFO 1/12/2023 02:33:47  [win] blur
+INFO 1/12/2023 02:33:47  [focus] 1
+INFO 1/12/2023 02:33:51  [blur] 1
+INFO 1/12/2023 02:33:51  [win] blur
+INFO 1/12/2023 02:33:53  [focus] 1
+INFO 1/12/2023 02:33:53  load file [/tmp/1701412433321-0.23374105857641325.html] for PDF export
+INFO 1/12/2023 02:33:53  [blur] 1
+INFO 1/12/2023 02:33:53  [win] blur
+INFO 1/12/2023 02:33:54  generate print window with id 3
+INFO 1/12/2023 02:33:55  get PDF data
+INFO 1/12/2023 02:33:55  get background color
+INFO 1/12/2023 02:34:16  [focus] 1
+INFO 1/12/2023 02:34:16  [RenderProcess 1][Log] export PDF to /home/favio/Documentos/typora/TRABAJO FINAL MICROECONOMÍA.pdf
+INFO 1/12/2023 02:34:21  [blur] 1
+INFO 1/12/2023 02:34:21  [win] blur
+INFO 1/12/2023 02:37:32  [focus] 1
+INFO 1/12/2023 02:37:32  [blur] 1
+INFO 1/12/2023 02:37:32  [win] blur
+INFO 1/12/2023 02:37:47  [focus] 1
+INFO 1/12/2023 02:37:48  [blur] 1
+INFO 1/12/2023 02:37:48  [win] blur
+INFO 1/12/2023 02:42:33  [focus] 1
+INFO 1/12/2023 02:42:33  [blur] 1
+INFO 1/12/2023 02:42:33  [win] blur
+INFO 1/12/2023 02:42:33  [focus] 1
+INFO 1/12/2023 02:42:36  [blur] 1
+INFO 1/12/2023 02:42:36  [win] blur
+INFO 1/12/2023 02:42:39  [focus] 1
+INFO 1/12/2023 02:42:39  addRecentDocument
+INFO 1/12/2023 02:42:39  synced recovery
+INFO 1/12/2023 02:42:39  synced recovery
+INFO 1/12/2023 02:42:39  ----------------before-quit-----------------
+INFO 1/12/2023 02:42:39  ------------------will-quit------------------
+INFO 1/12/2023 02:42:39  -----------------quit------------------
+INFO 1/12/2023 02:42:39  closeLogging
