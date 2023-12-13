@@ -12,8 +12,8 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-  { import = "josean.plugins" },
-  { import = "josean.plugins.lsp" },
+  { import = "andres.plugins" },
+  { import = "andres.plugins.lsp" },
 }, {
   install = {
     colorscheme = { "solarized-osaka" },
