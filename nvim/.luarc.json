@@ -2,5 +2,8 @@
     "diagnostics.disable": [
         "trailing-space",
         "unused-local"
+    ],
+    "diagnostics.globals": [
+        "ft_cmds"
     ]
 }

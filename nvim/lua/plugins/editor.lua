@@ -48,7 +48,7 @@ return {
             cwd = require("lazy.core.config").options.root,
           })
         end,
-        desc = "Find Plugin File",
+        desc = "Buscar Plugins",
       },
       {
         ";f",
