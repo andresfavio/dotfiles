@@ -1,101 +1,93 @@
--- Options are automatically loaded before lazy.nvim startup
--- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
--- Add any additional options here
--- Configuración global de Neovim
-local opt = vim.opt -- Para mayor concisión
--- Números de línea
-opt.relativenumber = true -- Muestra números relativos
-opt.number = true -- Muestra números absolutos en la línea del cursor (cuando los números relativos están activados)
+-- This file is automatically loaded by plugins.core
+vim.g.mapleader = " "
+vim.g.maplocalleader = "\\"
 
--- Pestañas e indentación
-opt.tabstop = 2 -- 2 espacios para las pestañas (predefinido por prettier)
-opt.shiftwidth = 2 -- 2 espacios para el ancho de indentación
-opt.expandtab = true -- Expande las pestañas a espacios
-opt.autoindent = true -- Copia la indentación de la línea actual al iniciar una nueva
+-- Enable LazyVim auto format
+vim.g.autoformat = true
 
--- Ajuste de línea
-opt.wrap = false -- Desactiva el ajuste de línea
+-- LazyVim root dir detection
+-- Each entry can be:
+-- * the name of a detector function like `lsp` or `cwd`
+-- * a pattern or array of patterns like `.git` or `lua`.
+-- * a function with signature `function(buf) -> string|string[]`
+vim.g.root_spec = { "lsp", { ".git", "lua" }, "cwd" }
 
--- Configuración de búsqueda
-opt.ignorecase = true -- Ignora mayúsculas y minúsculas al buscar
-opt.smartcase = true -- Si incluyes mayúsculas y minúsculas en tu búsqueda, asume que deseas sensibilidad a mayúsculas y minúsculas
+local opt = vim.opt
 
--- Línea de cursor
-opt.cursorline = true -- Resalta la línea del cursor
-
--- Apariencia
-opt.termguicolors = true -- Activa los colores terminales (necesario para el esquema de colores nightfly)
-opt.background = "dark" -- Los esquemas de colores que pueden ser claros u oscuros se harán oscuros
--- opt.signcolumn = "yes" -- Muestra la columna de signos para que el texto no se desplace
-
--- Retroceso
-opt.backspace = "indent,eol,start" -- Permite retroceso en indentación, fin de línea o posición de inicio del modo de inserción
-
--- Portapapeles
-opt.clipboard:append("unnamedplus") -- Utiliza el portapapeles del sistema como registro predeterminado
-
--- Divisiones de ventanas
-opt.splitright = true -- Divide la ventana verticalmente a la derecha
-opt.splitbelow = true -- Divide la ventana horizontalmente hacia abajo
-
--- Desactiva los archivos de intercambio
-opt.swapfile = false
-
--- Opciones de visualización
-opt.showmode = false
-opt.showcmd = false
-opt.cmdheight = 0
-
--- Configuración de desplazamiento
-opt.scrolloff = 999
-opt.sm = true
-
--- Resaltado de búsqueda
-opt.hlsearch = true -- Resalta resultados de búsqueda mientras escribes
-
--- Guardado automático y recarga
-opt.autowrite = true -- Guarda automáticamente el archivo antes de cambiar a otra ventana o abrir otro archivo
-opt.autoread = true -- Recarga automáticamente el archivo si ha cambiado en disco
-
--- Opciones de sesión para la restauración
-opt.sessionoptions = { "buffers", "curdir", "tabpages", "winsize" }
-
--- Visualización de caracteres especiales
-
--- opt.list = true -- Muestra caracteres especiales (como espacios y tabulaciones)
--- opt.listchars = {
---   tab = "▸ ",
---   trail = "·" --[[ , nbsp = "␣", extends = ">", precedes = "<"  ]],
--- } -- Símbolos para las tabulaciones, espacios finales, espacios irrompibles, etc.
-
--- Autoindentación inteligente según el contexto
-opt.smartindent = true
-
--- Resalta el paréntesis correspondiente al escribir uno
-opt.showmatch = true
-
--- Tiempo de espera para resaltar el paréntesis correspondiente
-opt.matchtime = 2
-
--- Resalta la columna 80
--- opt.colorcolumn = "80"
-
--- Mejora el comportamiento del menú de comandos
-opt.wildmenu = true
-
--- Controla cómo se completa la pestaña
-opt.wildmode = { "longest", "list", "full" }
-
--- No crea copias de respaldo antes de guardar el archivo
-opt.backup = false
-
--- Habilita la persistencia de la historia de undo después de cerrar y reabrir archivos
+opt.autowrite = true -- Enable auto write
+opt.clipboard = "unnamedplus" -- Sync with system clipboard
+opt.completeopt = "menu,menuone,noselect"
+opt.conceallevel = 3 -- Hide * markup for bold and italic
+opt.confirm = true -- Confirm to save changes before exiting modified buffer
+opt.cursorline = true -- Enable highlighting of the current line
+opt.expandtab = true -- Use spaces instead of tabs
+opt.formatoptions = "jcroqlnt" -- tcqj
+opt.grepformat = "%f:%l:%c:%m"
+opt.grepprg = "rg --vimgrep"
+opt.ignorecase = true -- Ignore case
+opt.inccommand = "nosplit" -- preview incremental substitute
+opt.laststatus = 3 -- global statusline
+opt.list = true -- Show some invisible characters (tabs...
+opt.mouse = "a" -- Enable mouse mode
+opt.number = true -- Print line number
+opt.pumblend = 10 -- Popup blend
+opt.pumheight = 10 -- Maximum number of entries in a popup
+opt.relativenumber = true -- Relative line numbers
+opt.scrolloff = 4 -- Lines of context
+opt.sessionoptions = { "buffers", "curdir", "tabpages", "winsize", "help", "globals", "skiprtp", "folds" }
+opt.shiftround = true -- Round indent
+opt.shiftwidth = 2 -- Size of an indent
+opt.shortmess:append({ W = true, I = true, c = true, C = true })
+opt.showmode = false -- Dont show mode since we have a statusline
+opt.sidescrolloff = 8 -- Columns of context
+opt.signcolumn = "yes" -- Always show the signcolumn, otherwise it would shift the text each time
+opt.smartcase = true -- Don't ignore case with capitals
+opt.smartindent = true -- Insert indents automatically
+opt.spelllang = { "en" }
+opt.splitbelow = true -- Put new windows below current
+opt.splitkeep = "screen"
+opt.splitright = true -- Put new windows right of current
+opt.tabstop = 2 -- Number of spaces tabs count for
+opt.termguicolors = true -- True color support
+opt.timeoutlen = 300
 opt.undofile = true
+opt.undolevels = 10000
+opt.updatetime = 200 -- Save swap file and trigger CursorHold
+opt.virtualedit = "block" -- Allow cursor to move where there is no text in visual block mode
+opt.wildmode = "longest:full,full" -- Command-line completion mode
+opt.winminwidth = 5 -- Minimum window width
+opt.wrap = false -- Disable line wrap
+opt.fillchars = {
+  foldopen = "",
+  foldclose = "",
+  -- fold = "⸱",
+  fold = " ",
+  foldsep = " ",
+  diff = "╱",
+  eob = " ",
+}
 
--- Reducción del parpadeo al realizar operaciones que modifican el texto
--- opt.lazyredraw = true
+if vim.fn.has("nvim-0.10") == 1 then
+  opt.smoothscroll = true
+end
 
-opt.syntax = "enable" -- Habilita el resaltado de sintaxis
+-- Folding
+vim.opt.foldlevel = 99
+vim.opt.foldtext = "v:lua.require'lazyvim.util'.ui.foldtext()"
 
--- opt.signcolumn = "yes:1" -- Muestra la columna de signos solo si hay más de 1 signo
-opt.completeopt = "menuone,noselect" -- Configura las opciones de autocompletado durante la escritura
+if vim.fn.has("nvim-0.9.0") == 1 then
+  vim.opt.statuscolumn = [[%!v:lua.require'lazyvim.util'.ui.statuscolumn()]]
+end
+
+-- HACK: causes freezes on <= 0.9, so only enable on >= 0.10 for now
+if vim.fn.has("nvim-0.10") == 1 then
+  vim.opt.foldmethod = "expr"
+  vim.opt.foldexpr = "v:lua.require'lazyvim.util'.ui.foldexpr()"
+else
+  vim.opt.foldmethod = "indent"
+end
+
+vim.o.formatexpr = "v:lua.require'lazyvim.util'.format.formatexpr()"
+
+-- Fix markdown indentation settings
+vim.g.markdown_recommended_style = 0

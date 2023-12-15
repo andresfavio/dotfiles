@@ -21,16 +21,6 @@ return {
           focused = false
         end,
       })
-      -- table.insert(opts.routes, 1, {
-      --   filter = {
-      --     cond = function()
-      --       return not focused
-      --     end,
-      --   },
-      --   view = "notify_send",
-      --   opts = { stop = false },
-      -- })
-
       opts.commands = {
         all = {
           -- options for the message history that you get with `:Noice`
@@ -85,17 +75,6 @@ return {
     },
   },
 
-  -- animations
-  {
-    "echasnovski/mini.animate",
-    event = "VeryLazy",
-    opts = function(_, opts)
-      opts.scroll = {
-        enable = false,
-      }
-    end,
-  },
-
   -- buffer line
   {
     "akinsho/bufferline.nvim",
@@ -113,20 +92,6 @@ return {
       },
     },
   },
-
-  -- statusline
-  -- {
-  --   "nvim-lualine/lualine.nvim",
-  --   event = "VeryLazy",
-  --   opts = {
-  --     options = {
-  --       -- globalstatus = false,
-  --       theme = "solarized_dark",
-  --     },
-  --   },
-  -- },
-  --
-  -- filename
   -- {
   --   "b0o/incline.nvim",
   --   dependencies = { "craftzdog/solarized-osaka.nvim" },
@@ -141,7 +106,7 @@ return {
   --           InclineNormalNC = { guifg = "#9eabac", guibg = "#001013" },
   --         },
   --       },
-  --       window = { margin = { vertical = 0, horizontal = 1 } },
+  --       window = { margin = { vertical = 0, horizontal = 0 } },
   --       hide = {
   --         cursorline = true,
   --       },
@@ -168,22 +133,25 @@ return {
         tmux = true,
         kitty = { enabled = false },
       },
+      window = {
+        width = 1,
+      },
     },
     keys = { { "<leader>z", "<cmd>ZenMode<cr>", desc = "Zen Mode" } },
   },
-
+  -- Lua
   {
     "nvimdev/dashboard-nvim",
     event = "VimEnter",
     opts = function(_, opts)
       local logo = [[
- █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗███████╗
-██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝
-███████║██╔██╗ ██║██║  ██║██████╔╝█████╗  ███████╗
-██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ╚════██║
-██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗███████║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
-     ]]
+   █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗███████╗
+  ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝
+  ███████║██╔██╗ ██║██║  ██║██████╔╝█████╗  ███████╗
+  ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ╚════██║
+  ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗███████║
+  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
+       ]]
 
       logo = string.rep("\n", 8) .. logo .. "\n\n"
       opts.config.header = vim.split(logo, "\n")

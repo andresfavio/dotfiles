@@ -1,9 +1,12 @@
 {
     "diagnostics.disable": [
         "trailing-space",
-        "unused-local"
+        "unused-local",
+        "undefined-global",
+        "undefined-field"
     ],
     "diagnostics.globals": [
-        "ft_cmds"
+        "ft_cmds",
+        "Util"
     ]
 }
