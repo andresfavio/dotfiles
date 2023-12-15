@@ -13,7 +13,7 @@ require("lazy").setup({
       "LazyVim/LazyVim",
       import = "lazyvim.plugins",
       opts = {
-        colorscheme = "solarized-osaka",
+        colorscheme = "onedark",
         news = {
           lazy = true,
           neovim = true,
@@ -26,8 +26,10 @@ require("lazy").setup({
     -- { import = "lazyvim.plugins.extras.test.core" },
     -- { import = "lazyvim.plugins.extras.util.dot" },
     -- { import = "lazyvim.plugins.extras.util.project" },
+    { import = "lazyvim.plugins.extras.dap.core" },
     { import = "lazyvim.plugins.extras.vscode" },
-    { import = "lazyvim.plugins.extras.lang.python-semshi" },
+    { import = "lazyvim.plugins.extras.coding.codeium" },
+    -- { import = "lazyvim.plugins.extras.lang.python-semshi" },
     -- { import = "lazyvim.plugins.extras.formatting.black" },
     -- { import = "lazyvim.plugins.extras.formatting.prettier" },
     -- { import = "lazyvim.plugins.extras.lang.python" },
@@ -64,5 +66,3 @@ require("lazy").setup({
     },
   },
 })
-vim.api.nvim_set_hl(0, "TelescopeBorder", { fg = "#1c716a" })
-vim.api.nvim_set_hl(0, "TreesitterContext", { bg = "#002c38" })

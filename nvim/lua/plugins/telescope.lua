@@ -156,7 +156,5 @@ return {
     telescope.setup(opts)
     require("telescope").load_extension("fzf")
     require("telescope").load_extension("file_browser")
-    vim.api.nvim_set_hl(0, "TelescopeBorder", { fg = "#1c716a" })
-    vim.api.nvim_set_hl(0, "TelescopeSelection", { bg = "#002c38", fg = "#849900" })
   end,
 }
