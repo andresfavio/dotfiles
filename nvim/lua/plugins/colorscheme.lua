@@ -36,13 +36,14 @@ return {
         -- LspReferenceText = { "#111720" },
         -- PmenuSbar = { bg = "#111720" },
         CmpItemMenu = { bg = "#111720" },
-        FloatBorder = { bg = "#2a324a" },
+        FloatBorder = { fg = "#9bafc0", bg = "NONE" },
         TelescopeBorder = { bg = "NONE", fg = "#9bafc0" },
         TelescopePromptBorder = { fg = "#9bafc0" },
         TelescopeResultsBorder = { fg = "#9bafc0" },
         TelescopePreviewBorder = { fg = "#9bafc0" },
         TelescopeSelection = { bg = "#0a1016" },
         TelescopeSelectionCaret = { fg = "#ee3022" },
+        NormalFloat = { bg = "NONE", fg = "#0a1016" },
       }, -- Override highlight groups
 
       -- Plugins Config --
@@ -57,41 +58,4 @@ return {
       require("onedark").load()
     end,
   },
-  {
-    "catppuccin/nvim",
-    name = "catppuccin",
-    lazy = false,
-    opts = {
-      transparent_background = true,
-      flavour = "mocha",
-    },
-    integrations = {
-      cmp = true,
-      gitsigns = true,
-      nvimtree = true,
-      treesitter = true,
-      notify = false,
-      mini = {
-        enabled = true,
-        indentscope_color = "",
-      },
-      -- For more plugins integrations please scroll down (https://github.com/catppuccin/nvim#integrations)
-    },
-  },
-  {
-    "miikanissi/modus-themes.nvim",
-    name = "modus",
-    priority = 1000,
-  },
-  {
-    "rebelot/kanagawa.nvim",
-    name = "kanagawa",
-    opts = {
-      transparent_background = true,
-    },
-    priority = 1000,
-  },
-  -- {
-  --   "xiyaowong/transparent.nvim",
-  -- },
 }

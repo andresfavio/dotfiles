@@ -41,9 +41,6 @@ return {
 
       opts.presets.lsp_doc_border = true
     end,
-    -- vim.api.nvim_set_hl(0, "NoiceCmdlinePopupBorderCmdline", { fg = "#1c716a" }),
-    -- vim.api.nvim_set_hl(0, "NoiceCmdlineIconCmdline", { fg = "#849900" }),
-    -- vim.api.nvim_set_hl(0, "NoiceMini", { fg = "#93a1a1", bg = "#07171a" }),
   },
 
   {
