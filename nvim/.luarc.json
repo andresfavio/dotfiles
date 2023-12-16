@@ -4,7 +4,8 @@
         "unused-local",
         "undefined-global",
         "undefined-field",
-        "missing-fields"
+        "missing-fields",
+        "param-type-mismatch"
     ],
     "diagnostics.globals": [
         "ft_cmds",

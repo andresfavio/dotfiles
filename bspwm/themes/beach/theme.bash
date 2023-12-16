@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------------
 
 # Colors
-background='#141c21'
+background='#07090d'
 foreground='#93a1a1'
 color0='#263640'
 color1='#d12f2c'
@@ -24,12 +24,12 @@ color13='#8086e8'
 color14='#33c5ba'
 color15='#fdf6e3'
 
-accent='#5294E2'
+accent='#141c21'
 light_value='0.03'
 dark_value='0.30'
 
 # Wallpaper
-wdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+wdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
 wallpaper="$wdir/wallpaper"
 
 # Polybar
@@ -48,10 +48,10 @@ geany_colors='beach.conf'
 geany_font='JetBrains Mono 10'
 
 # Appearance
-gtk_font='Noto Sans 9'
-gtk_theme='Arc'
+gtk_font='Nimbus Sans 10'
+gtk_theme='Adapta-Nokto'
 icon_theme='Arc-Circle'
-cursor_theme='Future'
+cursor_theme='Pear'
 
 # Dunst
 dunst_width='300'
@@ -64,13 +64,13 @@ dunst_separator='2'
 
 # Picom
 picom_backend='glx'
-picom_corner='0'
+picom_corner='14'
 picom_shadow_r='14'
 picom_shadow_o='0.30'
 picom_shadow_x='-12'
 picom_shadow_y='-12'
-picom_blur_method='none'
-picom_blur_strength='0'
+picom_blur_method='dual_kawase'
+picom_blur_strength='4'
 
 # Bspwm
 bspwm_fbc="$accent"
@@ -78,5 +78,5 @@ bspwm_nbc="$background"
 bspwm_abc="$color5"
 bspwm_pfc="$color2"
 bspwm_border='2'
-bspwm_gap='20'
+bspwm_gap='17'
 bspwm_sratio='0.50'
