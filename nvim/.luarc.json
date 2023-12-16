@@ -3,7 +3,8 @@
         "trailing-space",
         "unused-local",
         "undefined-global",
-        "undefined-field"
+        "undefined-field",
+        "missing-fields"
     ],
     "diagnostics.globals": [
         "ft_cmds",

@@ -27,10 +27,11 @@ return {
       lualine = {
         transparent = true, -- lualine center bar transparency
       },
+
       -- Custom Highlights --
       colors = {}, -- Override default colors
       highlights = {
-        -- Normal = { bg = "#0a1016" },
+        -- Normal = { bg = "#040607" },
         CursorLine = { bg = "#06080b" },
         Pmenu = { bg = "#111720" },
         -- LspReferenceText = { "#111720" },
@@ -43,9 +44,8 @@ return {
         TelescopePreviewBorder = { fg = "#9bafc0" },
         TelescopeSelection = { bg = "#0a1016" },
         TelescopeSelectionCaret = { fg = "#ee3022" },
-        NormalFloat = { bg = "NONE", fg = "#0a1016" },
+        NormalFloat = { bg = "NONE", fg = "#a57705" },
       }, -- Override highlight groups
-
       -- Plugins Config --
       diagnostics = {
         darker = true, -- darker colors for diagnostic
@@ -58,4 +58,7 @@ return {
       require("onedark").load()
     end,
   },
+  -- {
+  --   "xiyaowong/transparent.nvim",
+  -- },
 }

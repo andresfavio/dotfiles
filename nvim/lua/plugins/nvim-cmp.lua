@@ -7,6 +7,12 @@ return {
     "hrsh7th/cmp-buffer",
     "hrsh7th/cmp-path",
     "saadparwaiz1/cmp_luasnip",
+    {
+      "Exafunction/codeium.nvim",
+      cmd = "Codeium",
+      build = ":Codeium Auth",
+      opts = {},
+    },
   },
   opts = function()
     vim.api.nvim_set_hl(0, "CmpGhostText", { link = "Comment", default = true })
@@ -42,6 +48,7 @@ return {
       nvim_lsp = "",
       buffer = "",
       luasnip = "",
+      codeium = " ",
     }
     local function border(hl_name)
       return {
@@ -56,14 +63,9 @@ return {
       }
     end
     -- Configura nvim-cmp
-
-    vim.api.nvim_set_hl(0, "MyPmenu", { bg = "#061619", fg = "White", italic = true })
-    vim.api.nvim_set_hl(0, "MyPmenuSel", { bg = "#002c38", fg = "White", italic = true })
-    vim.api.nvim_set_hl(0, "MyCursorLine", { bg = "#002c38", fg = "White", italic = true, bold = true })
-    --
-    vim.api.nvim_set_hl(0, "CmpItemAbbr", { bg = "NONE", fg = "#94a0a1" })
-    vim.api.nvim_set_hl(0, "CmpItemAbbrMatch", { bg = "NONE", fg = "#788b05" })
-    vim.api.nvim_set_hl(0, "CmpItemAbbrMatchFuzzy", { bg = "NONE", fg = "#b48900" })
+    vim.api.nvim_set_hl(0, "MyPmenu", { bg = "#0f141c", fg = "#8991ad" })
+    vim.api.nvim_set_hl(0, "MyPmenuSel", { bg = "#2c354e", fg = "#8ea5c3" })
+    vim.api.nvim_set_hl(0, "MyCursorLine", { bg = "#2c354e", fg = "White", italic = true, bold = true })
 
     -- -- gray
     vim.api.nvim_set_hl(0, "CmpItemAbbrDeprecated", { bg = "NONE", strikethrough = true, fg = "#808080" })
@@ -86,18 +88,17 @@ return {
     vim.api.nvim_set_hl(0, "CmpItemKindProperty", { link = "CmpItemKindKeyword" })
     vim.api.nvim_set_hl(0, "CmpItemKindUnit", { link = "CmpItemKindKeyword" })
 
-    vim.api.nvim_set_hl(0, "CmpDoc", { bg = "#061619", italic = true })
-
-    --
-    -- vim.api.nvim_set_hl(0, "CmpItemMenu", { fg = "#000000", italic = true })
+    vim.api.nvim_set_hl(0, "CmpDoc", { bg = "#0f141c" })
+    -- vim.api.nvim_set_hl(0, "CmpDocBorder", { bg = "#0f141c", fg = "#0f141c", italic = true })
     return {
       completion = {
         completeopt = "menu,menuone,noinsert",
       },
       window = {
         completion = cmp.config.window.bordered({
-          border = { "╭", "─", "╮", "│", "╯", "─", "╰", "│" },
-          side_padding = 0,
+          -- border = { "╭", "─", "╮", "│", "╯", "─", "╰", "│" },
+          border = "none",
+          side_padding = 1,
           side = "double",
           offset_x = 1, -- Ajusta el desplazamiento horizontal del borde
           offset_y = 0, -- Ajusta el desplazamiento vertical del borde
@@ -105,7 +106,7 @@ return {
           col_offset = 0,
         }),
         documentation = {
-          border = border("CmpDocBorder"),
+          -- border = border("CmpDocBorder"),
           winhighlight = "Normal:CmpDoc",
         },
       },
@@ -134,6 +135,7 @@ return {
       sources = cmp.config.sources({
         { name = "nvim_lsp" },
         { name = "luasnip" },
+        { name = "codeium" },
         { name = "path" },
       }, {
         { name = "buffer" },
@@ -141,12 +143,8 @@ return {
       formatting = {
         fields = { "abbr", "kind", "menu" },
         format = function(entry, vim_item)
-          vim_item.kind = (icons[vim_item.kind] or "Foo") .. vim_item.kind
+          vim_item.kind = (icons[vim_item.kind] or "") .. vim_item.kind
           vim_item.menu = icons[entry.source.name]
-          -- local kind = vim_item.kind
-          -- vim_item.kind = (cmp_kinds[kind] or "?")
-          -- vim_item.menu = " (" .. kind .. ") "
-          --
           vim_item.abbr = vim_item.abbr:match("[^(]+")
 
           return vim_item
