@@ -6,11 +6,11 @@
 
 # Terminal (alacritty)
 super + Return
-	kitty tmux
+	kitty
 
 # Terminal (floating)
 super + shift + Return
-	kitty
+	kitty tmux
 
 # Terminal (fullscreen)
 super + alt + Return

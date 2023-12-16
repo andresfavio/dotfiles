@@ -1,3 +1,5 @@
+-- COLORSCHEME
+-- One Dark Pro
 return {
   {
     "navarasu/onedark.nvim",
