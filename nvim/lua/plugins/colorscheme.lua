@@ -3,6 +3,8 @@
 return {
   {
     "navarasu/onedark.nvim",
+    lazy = false,
+    priority = 1000,
     opts = {
       style = "deep", -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
       transparent = true, -- Show/hide background
