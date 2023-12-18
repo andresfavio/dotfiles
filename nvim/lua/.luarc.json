@@ -1,0 +1,18 @@
+{
+    "diagnostics.disable": [
+        "incomplete-signature-doc",
+        "trailing-space",
+        "unused-local",
+        "undefined-doc-name",
+        "no-unknown",
+        "missing-parameter",
+        "undefined-global",
+        "missing-fields",
+        "param-type-mismatch",
+        "lowercase-global"
+    ],
+    "diagnostics.globals": [
+        "vim",
+        "dd"
+    ]
+}
