@@ -3,6 +3,8 @@ if status is-interactive
 end
 
 # ATAJOS
+# Eliminar
+alias delete="rm -rf"
 # brillo y saturacion
 alias 1="xgamma -gamma 0.8 && xrandr --output eDP --brightness 1.2"
 # neovim
@@ -31,8 +33,8 @@ alias gc="git commit -m"
 alias gp= "git push origin -u master"
 
 # Pacman
-alias spi= "sudo pacman -S"
-alias spu= "sudo pacman -Syyu"
+alias spi="sudo pacman -S"
+alias spu="sudo pacman -Syyu"
 
 # Sonidos de teclado
 alias ru='cd ~/Escritorio/Soundpacks/Soundpacks/ && rustyvibes eg-crystal-purple  -v 300'
