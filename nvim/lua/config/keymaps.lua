@@ -6,9 +6,19 @@ local keymap = vim.keymap
 local opts = { noremap = true, silent = true }
 
 -- modo normal
-keymap.set("n", "jk", "<ESC>", opts)
+keymap.set("i", "jk", "<ESC>", opts)
 -- Delete a word backwards
+--
+keymap.set("n", ".", ":")
 keymap.set("n", "dw", 'vb"_d')
+
+keymap.set("n", "ff", "<cmd>Telescope find_files<cr>", opts)
+keymap.set("n", "fl", "<cmd>Telescope live_grep<cr>", opts)
+
+keymap.set("n", "ne", "<cmd>Neotree toggle float<CR>", opts)
+keymap.set("n", "fe", "<cmd>Neotree diagnostics toggle float<CR>", opts)
+
+keymap.set("n", "<A-i>", "<cmd>Lspsaga term_toggle<CR>", opts)
 
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
