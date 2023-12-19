@@ -31,24 +31,25 @@ return {
 			lualine = {
 				transparent = true, -- lualine center bar transparency
 			},
-
 			-- Custom Highlights --
 			colors = {}, -- Override default colors
 			highlights = {
 				-- Normal = { bg = "#040607" },
 				CursorLine = { bg = "#06080b" },
-				Pmenu = { bg = "#111720" },
-				-- LspReferenceText = { "#111720" },
-				-- PmenuSbar = { bg = "#111720" },
+				-- Pmenu = { bg = "#111720" },
+				-- -- LspReferenceText = { "#111720" },
+				PmenuSbar = { bg = "#111720" },
 				CmpItemMenu = { bg = "#111720" },
 				FloatBorder = { fg = "#9bafc0", bg = "NONE" },
+				NeoTreeFloatBorder = { fg = "#9bafc0", bg = "NONE" },
 				TelescopeBorder = { bg = "NONE", fg = "#9bafc0" },
 				TelescopePromptBorder = { fg = "#9bafc0" },
 				TelescopeResultsBorder = { fg = "#9bafc0" },
 				TelescopePreviewBorder = { fg = "#9bafc0" },
 				TelescopeSelection = { bg = "#0a1016" },
 				TelescopeSelectionCaret = { fg = "#ee3022" },
-				NormalFloat = { bg = "NONE", fg = "#a57705" },
+				-- TerminalNormal = { bg = "NONE" },
+				NormalFloat = { bg = "NONE" },
 			}, -- Override highlight groups
 			-- Plugins Config --
 			diagnostics = {

@@ -1,5 +1,159 @@
 return {
-	-- Create annotations with one keybind, and jump your cursor in the inserted annotation
+	{
+		"hrsh7th/nvim-cmp",
+		opts = function()
+			vim.api.nvim_set_hl(0, "CmpGhostText", { link = "Comment", default = true })
+			local cmp = require("cmp")
+			local capabilities = require("cmp_nvim_lsp").default_capabilities()
+			local defaults = require("cmp.config.default")()
+			local cmp_kinds = {
+				Text = "   ",
+				Method = "   ",
+				Function = "   ",
+				Constructor = "   ",
+				Field = "   ",
+				Variable = "   ",
+				Class = "   ",
+				Interface = "   ",
+				Module = "   ",
+				Property = "   ",
+				Unit = "   ",
+				Value = "   ",
+				Enum = "   ",
+				Keyword = "   ",
+				Snippet = "   ",
+				Color = "   ",
+				File = "   ",
+				Reference = "   ",
+				Folder = "   ",
+				EnumMember = "   ",
+				Constant = "   ",
+				Struct = "   ",
+				Event = "   ",
+				Operator = "   ",
+				TypeParameter = "   ",
+				Codeium = "   ",
+			}
+
+			return {
+				completion = {
+					completeopt = "menu,menuone,noinsert",
+				},
+				window = {
+					completion = cmp.config.window.bordered(),
+					documentation = cmp.config.window.bordered(),
+				},
+
+				snippet = {
+					expand = function(args)
+						require("luasnip").lsp_expand(args.body)
+					end,
+				},
+
+				mapping = cmp.mapping.preset.insert({
+					["<C-j>"] = cmp.mapping.select_next_item({ behavior = cmp.SelectBehavior.Select }),
+					["<C-k>"] = cmp.mapping.select_prev_item({ behavior = cmp.SelectBehavior.Select }),
+					["<C-b>"] = cmp.mapping.scroll_docs(-4),
+					["<C-f>"] = cmp.mapping.scroll_docs(4),
+					["<C-Space>"] = cmp.mapping.complete(),
+					["<C-e>"] = cmp.mapping.abort(),
+					["<CR>"] = cmp.mapping.confirm({ select = true }), -- Accept currently selected item. Set `select` to `false` to only confirm explicitly selected items.
+					["<S-CR>"] = cmp.mapping.confirm({
+						behavior = cmp.ConfirmBehavior.Replace,
+						select = true,
+					}), -- Accept currently selected item. Set `select` to `false` to only confirm explicitly selected items.
+					["<C-CR>"] = function(fallback)
+						cmp.abort()
+						fallback()
+					end,
+				}),
+				sources = cmp.config.sources({
+					{ name = "nvim_lsp" },
+					{ name = "luasnip" },
+					{ name = "path" },
+					{ name = "codeium" },
+				}, {
+					{ name = "buffer" },
+				}),
+				formatting = {
+					format = function(_, item)
+						local icons = require("lazyvim.config").icons.kinds
+						if cmp_kinds[item.kind] then
+							item.kind = cmp_kinds[item.kind] .. item.kind
+						end
+						return item
+					end,
+				},
+				experimental = {
+					ghost_text = {
+						hl_group = "CmpGhostText",
+					},
+				},
+				sorting = defaults.sorting,
+			}
+		end,
+	},
+	{
+		{
+			"nvim-treesitter/nvim-treesitter",
+			event = { "BufReadPre", "BufNewFile" },
+			build = ":TSUpdate",
+			dependencies = {
+				"nvim-treesitter/nvim-treesitter-textobjects",
+				"windwp/nvim-ts-autotag",
+			},
+			config = function()
+				-- import nvim-treesitter plugin
+				local treesitter = require("nvim-treesitter.configs")
+
+				-- configure treesitter
+				treesitter.setup({ -- enable syntax highlighting
+					highlight = {
+						enable = true,
+					},
+					-- enable indentation
+					indent = { enable = true },
+					-- enable autotagging (w/ nvim-ts-autotag plugin)
+					autotag = {
+						enable = true,
+					},
+					-- ensure these language parsers are installed
+					ensure_installed = {
+						"json",
+						"javascript",
+						"typescript",
+						"tsx",
+						"yaml",
+						"html",
+						"css",
+						"prisma",
+						"markdown",
+						"markdown_inline",
+						"svelte",
+						"graphql",
+						"bash",
+						"lua",
+						"vim",
+						"dockerfile",
+						"gitignore",
+						"query",
+					},
+					incremental_selection = {
+						enable = true,
+						keymaps = {
+							init_selection = "<C-space>",
+							node_incremental = "<C-space>",
+							scope_incremental = false,
+							node_decremental = "<bs>",
+						},
+					},
+				})
+
+				-- enable nvim-ts-context-commentstring plugin for commenting tsx and jsx
+				require("ts_context_commentstring").setup({})
+			end,
+		},
+	},
 	{
 		"danymat/neogen",
 		keys = {
@@ -85,26 +239,6 @@ return {
 		opts = {
 			position = "right",
 		},
-	},
-	{
-		"nvim-cmp",
-		dependencies = {
-			-- codeium
-			{
-				"Exafunction/codeium.nvim",
-				cmd = "Codeium",
-				build = ":Codeium Auth",
-				opts = {},
-			},
-		},
-		---@param opts cmp.ConfigSchema
-		opts = function(_, opts)
-			table.insert(opts.sources, 1, {
-				name = "codeium",
-				group_index = 1,
-				priority = 100,
-			})
-		end,
 	},
 	{
 		"windwp/nvim-autopairs",

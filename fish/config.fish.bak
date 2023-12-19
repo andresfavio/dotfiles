@@ -3,9 +3,6 @@ if status is-interactive
 end
 
 # ATAJOS
-# Actualizar mirrors
-# alias actualizar="sudo reflector --verbose --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist ; sudo pacman -Syyu --noconfirm ; yay -Syyu --noconfirm ; sudo pacman -Scc --noconfirm ; yay -Scc --noconfirm"
-alias actualizar="sudo pacman -Syyu --noconfirm ; yay -Syyu --noconfirm ; sudo paccache -r ; sudo rm -rf /tmp/* ; rm -rf ~/.local/share/Trash/* ; history -c ; sudo pacman -Scc --noconfirm ; yay -Scc --noconfirm ; rm -rf ~/.cache/* --noconfirm ; sudo pacman -Syyu --noconfirm ; yay -Syyu --noconfirm"
 # Eliminar
 alias delete="rm -rf"
 # brillo y saturacion
@@ -42,7 +39,6 @@ alias spu="sudo pacman -Syyu"
 # Sonidos de teclado
 alias ru='cd ~/Escritorio/Soundpacks/Soundpacks/ && rustyvibes eg-crystal-purple  -v 300'
 alias ru2='cd ~/Escritorio/Soundpacks/Soundpacks/ && rustyvibes eg-oreo  -v 250'
-alias ru3='cd ~/Escritorio/Soundpacks/Soundpacks/ && rustyvibes nk-cream  -v 550'
 
 #mi music
 alias m5='/usr/bin/mplayer /home/favio/Music/CodeLunes.mp3'

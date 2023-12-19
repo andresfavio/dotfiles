@@ -25,6 +25,10 @@ require("lazy").setup({
 				},
 			},
 		},
+		-- { import = "lazyvim.plugins.extras.lang.python" },
+		-- { import = "lazyvim.plugins.extras.formatting.black" },
+		-- { import = "lazyvim.plugins.extras.formatting.prettier" },
+		{ import = "lazyvim.plugins.extras.coding.codeium" },
 		{ import = "plugins" },
 	},
 	defaults = {
